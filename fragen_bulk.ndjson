@@ -22,3 +22,16 @@
   "correct": "Religionsunterricht teilnimmt.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "3" } }
+{
+  "question": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+  "question_translation": "آلمان یک کشور مبتنی بر قانون اساسی است. این به چه معناست؟",
+  "options": [
+    { "text": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.", "translation": "همه ساکنان و دولت باید از قوانین پیروی کنند." },
+    { "text": "Der Staat muss sich nicht an die Gesetze halten.", "translation": "دولت مجبور به رعایت قوانین نیست." },
+    { "text": "Nur Deutsche müssen die Gesetze befolgen.", "translation": "فقط آلمانی‌ها باید از قوانین پیروی کنند." },
+    { "text": "Die Gerichte machen die Gesetze.", "translation": "Die Gerichte machen die Gesetze." }
+  ],
+  "correct": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+  "state": "Deutschland"
+}
