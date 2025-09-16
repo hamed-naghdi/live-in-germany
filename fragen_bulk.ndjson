@@ -35,3 +35,16 @@
   "correct": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "4" } }
+{
+  "question": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+  "question_translation": "کدام حق، جزو حقوق اساسی در آلمان است؟",
+  "options": [
+    { "text": "Waffenbesitz", "translation": "مالکیت اسلحه" },
+    { "text": "Faustrecht", "translation": "قانون جنگل" },
+    { "text": "Meinungsfreiheit", "translation": "آزادی بیان" },
+    { "text": "Selbstjustiz", "translation": "ویژیلانتیسم" }
+  ],
+  "correct": "Meinungsfreiheit",
+  "state": "Deutschland"
+}
