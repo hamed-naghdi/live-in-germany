@@ -156,3 +156,16 @@
   "correct": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "13" } }
+{
+  "question": "Im Parlament steht der Begriff „Opposition“ für ...",
+  "question_translation": "در پارلمان، اصطلاح «اپوزیسیون» مخفف ... است.",
+  "options": [
+    { "text": "die regierenden Parteien.", "translation": "احزاب حاکم." },
+    { "text": "die Fraktion mit den meisten Abgeordneten.", "translation": "گروه پارلمانی با بیشترین نماینده مجلس." },
+    { "text": "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.", "translation": "تمام احزابی که در انتخابات گذشته به حد نصاب ۵٪ رسیده‌اند." },
+    { "text": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.", "translation": "تمام نمایندگان مجلسی که به حزب (های) حاکم تعلق ندارند." }
+  ],
+  "correct": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+  "state": "Deutschland"
+}
