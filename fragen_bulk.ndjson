@@ -247,3 +247,16 @@
   "correct": "Man darf sich seinen Wohnort selbst aussuchen.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "20" } }
+{
+  "question": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann ...",
+  "question_translation": "حزبی در آلمان هدف ایجاد دیکتاتوری را دنبال می‌کند. سپس...",
+  "options": [
+    { "text": "tolerant.", "translation": "مداراکننده." },
+    { "text": "rechtsstaatlich orientiert.", "translation": "متمایل به قانون." },
+    { "text": "gesetzestreu.", "translation": "مطیع قانون." },
+    { "text": "verfassungswidrig.", "translation": "مغایر با قانون اساسی." }
+  ],
+  "correct": "verfassungswidrig",
+  "state": "Deutschland"
+}

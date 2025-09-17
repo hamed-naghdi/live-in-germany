@@ -57,7 +57,7 @@ and empty format for adding another question:
 
 ```json
 
-{ "index": { "_id": "1" } }
+{ "index": { "_id": "2" } }
 {
   "question": "",
   "question_translation": "",
