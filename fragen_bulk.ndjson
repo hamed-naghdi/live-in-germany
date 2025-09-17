@@ -62,6 +62,19 @@
       "translation": "رأی‌دهنده ممکن است در انتخابات تحت تأثیر قرار نگیرد یا مجبور به رأی دادن به شیوه‌ای خاص نشود و ممکن است در نتیجه انتخابات متحمل هیچ گونه ضرر و زیانی نشود." },
     { "text": "Alle wahlberechtigten Personen müssen wählen.", "translation": "همه واجدین شرایط باید رأی بدهند." }
   ],
-  "correct": "",
+  "correct": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "6" } }
+{
+  "question": "Wie heißt die deutsche Verfassung?",
+  "question_translation": "نام قانون اساسی آلمان چیست؟",
+  "options": [
+    { "text": "Volksgesetz", "translation": "قانون خلق" },
+    { "text": "Bundesgesetz", "translation": "قانون فدرال" },
+    { "text": "Deutsches Gesetz", "translation": "قانون آلمان" },
+    { "text": "Grundgesetz", "translation": "قانون اساسی" }
+  ],
+  "correct": "Grundgesetz",
   "state": "Deutschland"
 }
