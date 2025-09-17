@@ -182,3 +182,16 @@
   "correct": "meine Meinung im Internet äußern kann",
   "state": "Deutschland"
 }
+{ "index": { "_id": "15" } }
+{
+  "question": "Was verbietet das deutsche Grundgesetz?",
+  "question_translation": "قانون اساسی آلمان چه چیزهایی را ممنوع می‌کند؟",
+  "options": [
+    { "text": "Militärdienst", "translation": "خدمت سربازی" },
+    { "text": "Zwangsarbeit", "translation": "کار اجباری" },
+    { "text": "freie Berufswahl", "translation": "انتخاب آزاد شغل" },
+    { "text": "Arbeit im Ausland", "translation": "کار در خارج از کشور" }
+  ],
+  "correct": "Zwangsarbeit",
+  "state": "Deutschland"
+}
