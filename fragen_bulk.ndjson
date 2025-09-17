@@ -104,3 +104,16 @@
   "correct": "Alle sollen gleich viel Geld haben.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "9" } }
+{
+  "question": "Welches Grundrecht gilt in Deutschland nur für Ausländer / Ausländerinnen? Das Grundrecht auf ...",
+  "question_translation": "کدام حق اساسی در آلمان فقط برای خارجی‌ها اعمال می‌شود؟ حق اساسی برای...",
+  "options": [
+    { "text": "Schutz der Familie", "translation": "حمایت از خانواده" },
+    { "text": "Menschenwürde", "translation": "کرامت انسانی" },
+    { "text": "Asyl", "translation": "پناهندگی" },
+    { "text": "Meinungsfreiheit", "translation": "آزادی بیان" }
+  ],
+  "correct": "Asyl",
+  "state": "Deutschland"
+}
