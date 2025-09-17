@@ -208,3 +208,16 @@
   "correct": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
   "state": "Deutschland"
 }
+{ "index": { "_id": "17" } }
+{
+  "question": "Die deutschen Gesetze verbieten ...",
+  "question_translation": "طبق قانون آلمان، ... ممنوع است.",
+  "options": [
+    { "text": "Meinungsfreiheit der Einwohner und Einwohnerinnen.", "translation": "آزادی بیان برای ساکنان." },
+    { "text": "Petitionen der Bürger und Bürgerinnen.", "translation": "دادخواست‌های شهروندی." },
+    { "text": "Versammlungsfreiheit der Einwohner und Einwohnerinnen.", "translation": "آزادی تجمع برای ساکنان." },
+    { "text": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.", "translation": "رفتار نابرابر دولت با شهروندان." }
+  ],
+  "correct": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
+  "state": "Deutschland"
+}
