@@ -330,3 +330,15 @@
   "correct": "ein demokratischer und sozialer Bundesstaat.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "27" } }
+{
+  "question": "Deutschland ist ...",
+  "options": [
+    { "text": "ein sozialistischer Staat.", "translation": "یک دولت سوسیالیستی." },
+    { "text": "ein Bundesstaat.", "translation": "یک دولت فدرال." },
+    { "text": "eine Diktatur.", "translation": "یک دیکتاتوری." },
+    { "text": "eine Monarchie.", "translation": "یک سلطنت." }
+  ],
+  "correct": "ein Bundesstaat.",
+  "state": "Deutschland"
+}
