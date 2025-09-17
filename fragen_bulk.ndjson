@@ -91,3 +91,16 @@
   "correct": "Glaubens- und Gewissensfreiheit.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "8" } }
+{
+  "question": "Was steht nicht im Grundgesetz von Deutschland?",
+  "question_translation": "چه مواردی در قانون اساسی آلمان وجود ندارد؟",
+  "options": [
+    { "text": "Die Würde des Menschen ist unantastbar.", "translation": "کرامت انسانی خدشه‌ناپذیر است." },
+    { "text": "Alle sollen gleich viel Geld haben.", "translation": "همه باید به یک اندازه پول داشته باشند." },
+    { "text": "Jeder Mensch darf seine Meinung sagen.", "translation": "همه آزادند که نظر خود را بیان کنند." },
+    { "text": "Alle sind vor dem Gesetz gleich.", "translation": "همه در برابر قانون برابرند." }
+  ],
+  "correct": "Alle sollen gleich viel Geld haben.",
+  "state": "Deutschland"
+}
