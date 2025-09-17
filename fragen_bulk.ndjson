@@ -342,3 +342,16 @@
   "correct": "ein Bundesstaat.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "28" } }
+{
+  "question": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+  "question_translation": "چه کسی اعضای بوندستاگ (مجلس فدرال) در آلمان را انتخاب می‌کند؟",
+  "options": [
+    { "text": "das Militär", "translation": "ارتش" },
+    { "text": "die Wirtschaft", "translation": "اقتصاد" },
+    { "text": "das wahlberechtigte Volk", "translation": "رأی دهندگان" },
+    { "text": "die Verwaltung", "translation": "دولت" }
+  ],
+  "correct": "das wahlberechtigte Volk",
+  "state": "Deutschland"
+}
