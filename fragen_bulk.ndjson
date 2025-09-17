@@ -143,3 +143,16 @@
   "correct": "Grundgesetz",
   "state": "Deutschland"
 }
+{ "index": { "_id": "12" } }
+{
+  "question": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+  "question_translation": "یک حزب در مجلس فدرال آلمان می‌خواهد آزادی مطبوعات را لغو کند. آیا این ممکن است؟",
+  "options": [
+    { "text": "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.", "translation": "بله، اگر بیش از نیمی از اعضای بوندستاگ موافق باشند." },
+    { "text": "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.", "translation": "بله، اما دو سوم اعضای بوندستاگ باید موافق باشند." },
+    { "text": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.", "translation": "خیر، زیرا آزادی مطبوعات یک حق اساسی است. نمی‌توان آن را لغو کرد." },
+    { "text": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.", "translation": "خیر، زیرا فقط بوندسرات می‌تواند آزادی مطبوعات را لغو کند." }
+  ],
+  "correct": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+  "state": "Deutschland"
+}
