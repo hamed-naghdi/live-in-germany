@@ -279,3 +279,16 @@
   "correct": "Republik",
   "state": "Deutschland"
 }
+{ "index": { "_id": "23" } }
+{
+  "question": "In Deutschland sind die meisten Erwerbstätigen ...",
+  "question_translation": "در آلمان، بیشتر شاغلین ...",
+  "options": [
+    { "text": "in kleinen Familienunternehmen beschäftigt.", "translation": "در یک کسب و کار کوچک خانوادگی مشغول به کار بوده است." },
+    { "text": "ehrenamtlich für ein Bundesland tätig.", "translation": "داوطلبانه برای یک ایالت فدرال کار کرده است." },
+    { "text": "selbständig mit einer eigenen Firma tätig.", "translation": "خوداشتغال در شرکت خود." },
+    { "text": "bei einer Firma oder Behörde beschäftigt.", "translation": "استخدام در یک شرکت یا سازمان دولتی." }
+  ],
+  "correct": "bei einer Firma oder Behörde beschäftigt.",
+  "state": "Deutschland"
+}
