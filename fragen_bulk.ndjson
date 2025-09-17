@@ -292,3 +292,16 @@
   "correct": "bei einer Firma oder Behörde beschäftigt.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "24" } }
+{
+  "question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+  "question_translation": "جمهوری فدرال آلمان چند ایالت فدرال دارد؟",
+  "options": [
+    { "text": "14", "translation": "14" },
+    { "text": "15", "translation": "15" },
+    { "text": "16", "translation": "16" },
+    { "text": "17", "translation": "17" }
+  ],
+  "correct": "16",
+  "state": "Deutschland"
+}
