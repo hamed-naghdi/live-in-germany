@@ -355,3 +355,16 @@
   "correct": "das wahlberechtigte Volk",
   "state": "Deutschland"
 }
+{ "index": { "_id": "29" } }
+{
+  "question": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+  "question_translation": "کدام حیوان نشان جمهوری فدرال آلمان است؟",
+  "options": [
+    { "text": "Löwe", "translation": "شیر" },
+    { "text": "Adler", "translation": "عقاب" },
+    { "text": "Bär", "translation": "خرس" },
+    { "text": "Pferd", "translation": "اسب" }
+  ],
+  "correct": "Adler",
+  "state": "Deutschland"
+}
