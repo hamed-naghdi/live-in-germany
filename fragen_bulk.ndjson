@@ -318,3 +318,15 @@
   "correct": "Elsass-Lothringen",
   "state": "Deutschland"
 }
+{ "index": { "_id": "26" } }
+{
+  "question": "Deutschland ist ...",
+  "options": [
+    { "text": "eine kommunistische Republik.", "translation": "یک جمهوری کمونیستی." },
+    { "text": "ein demokratischer und sozialer Bundesstaat.", "translation": "یک دولت فدرال دموکراتیک و اجتماعی." },
+    { "text": "eine kapitalistische und soziale Monarchie.", "translation": "یک سلطنت سرمایه‌داری و اجتماعی." },
+    { "text": "ein sozialer und sozialistischer Bundesstaat.", "translation": "یک دولت فدرال اجتماعی و سوسیالیستی." }
+  ],
+  "correct": "ein demokratischer und sozialer Bundesstaat.",
+  "state": "Deutschland"
+}
