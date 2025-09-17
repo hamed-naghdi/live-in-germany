@@ -221,3 +221,16 @@
   "correct": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "18" } }
+{
+  "question": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+  "question_translation": "کدام حق اساسی در ماده ۱ قانون اساسی جمهوری فدرال آلمان تضمین شده است؟",
+  "options": [
+    { "text": "die Unantastbarkeit der Menschenwürde", "translation": "مصونیت کرامت انسانی" },
+    { "text": "das Recht auf Leben", "translation": "حق حیات" },
+    { "text": "Religionsfreiheit", "translation": "آزادی مذهب" },
+    { "text": "Meinungsfreiheit", "translation": "آزادی بیان" }
+  ],
+  "correct": "die Unantastbarkeit der Menschenwürde",
+  "state": "Deutschland"
+}
