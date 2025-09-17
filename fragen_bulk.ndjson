@@ -260,3 +260,22 @@
   "correct": "verfassungswidrig",
   "state": "Deutschland"
 }
+{ "index": { "_id": "21" } }
+{
+  "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+  "question_translation": "نشان ملی جمهوری فدرال آلمان چیست؟",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "22" } }
+{
+  "question": "Was für eine Staatsform hat Deutschland?",
+  "question_translation": "آلمان چه نوع حکومتی دارد؟",
+  "options": [
+    { "text": "Monarchie", "translation": "سلطنت" },
+    { "text": "Diktatur", "translation": "دیکتاتوری" },
+    { "text": "Republik", "translation": "جمهوری" },
+    { "text": "Fürstentum", "translation": "شاهزاده‌نشینی" }
+  ],
+  "correct": "Republik",
+  "state": "Deutschland"
+}
