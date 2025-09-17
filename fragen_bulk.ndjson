@@ -195,3 +195,16 @@
   "correct": "Zwangsarbeit",
   "state": "Deutschland"
 }
+{ "index": { "_id": "16" } }
+{
+  "question": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+  "question_translation": "چه زمانی آزادی بیان در آلمان محدود می‌شود؟",
+  "options": [
+    { "text": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen", "translation": "هنگام انتشار عمومی ادعاهای دروغین درباره افراد" },
+    { "text": "bei Meinungsäußerungen über die Bundesregierung", "translation": "هنگام ابراز عقیده درباره دولت فدرال" },
+    { "text": "bei Diskussionen über Religionen", "translation": "هنگام بحث در مورد ادیان" },
+    { "text": "bei Kritik am Staat", "translation": "هنگام انتقاد از دولت" }
+  ],
+  "correct": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+  "state": "Deutschland"
+}
