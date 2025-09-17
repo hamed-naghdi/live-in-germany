@@ -297,11 +297,24 @@
   "question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
   "question_translation": "جمهوری فدرال آلمان چند ایالت فدرال دارد؟",
   "options": [
-    { "text": "14", "translation": "14" },
-    { "text": "15", "translation": "15" },
-    { "text": "16", "translation": "16" },
-    { "text": "17", "translation": "17" }
+    { "text": "14" },
+    { "text": "15" },
+    { "text": "16" },
+    { "text": "17" }
   ],
   "correct": "16",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "25" } }
+{
+  "question": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+  "question_translation": "کدام ایالت، جزو جمهوری فدرال آلمان نیست؟",
+  "options": [
+    { "text": "Elsass-Lothringen" },
+    { "text": "Nordrhein-Westfalen" },
+    { "text": "Mecklenburg-Vorpommern" },
+    { "text": "Sachsen-Anhalt" }
+  ],
+  "correct": "Elsass-Lothringen",
   "state": "Deutschland"
 }
