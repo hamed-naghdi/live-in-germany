@@ -130,3 +130,16 @@
   "correct": "die Geldstrafe",
   "state": "Deutschland"
 }
+{ "index": { "_id": "11" } }
+{
+  "question": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+  "question_translation": "قانون اساسی جمهوری فدرال آلمان چه نام دارد؟",
+  "options": [
+    { "text": "Grundgesetz", "translation": "قانون اساسی" },
+    { "text": "Bundesverfassung", "translation": "قانون اساسی فدرال" },
+    { "text": "Gesetzbuch", "translation": "مجموعه قوانین" },
+    { "text": "Verfassungsvertrag", "translation": "معاهده قانون اساسی" }
+  ],
+  "correct": "Grundgesetz",
+  "state": "Deutschland"
+}
