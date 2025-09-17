@@ -169,3 +169,16 @@
   "correct": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "14" } }
+{
+  "question": "Meinungsfreiheit in Deutschland heißt zum Beispiel, dass ich",
+  "question_translation": "آزادی بیان در آلمان به این معنی است که، برای مثال، من",
+  "options": [
+    { "text": "Passanten auf der Straße beschimpfen darf", "translation": "من مجاز به توهین به رهگذران در خیابان هستم." },
+    { "text": "meine Meinung im Internet äußern kann", "translation": "من مجاز به ابراز عقیده‌ام در اینترنت هستم." },
+    { "text": "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf", "translation": "من مجاز به پوشیدن نمادهای نازی، حماس یا داعش در ملاء عام هستم." },
+    { "text": "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche", "translation": "من فقط تا زمانی که با دولت مخالفت نکنم، مجاز به ابراز عقیده‌ام هستم." }
+  ],
+  "correct": "meine Meinung im Internet äußern kann",
+  "state": "Deutschland"
+}
