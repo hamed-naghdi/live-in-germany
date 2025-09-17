@@ -234,3 +234,16 @@
   "correct": "die Unantastbarkeit der Menschenwürde",
   "state": "Deutschland"
 }
+{ "index": { "_id": "19" } }
+{
+  "question": "Was versteht man unter dem Recht der „Freizügigkeit“ in Deutschland?",
+  "question_translation": "منظور از حق «آزادی رفت و آمد» در آلمان چیست؟",
+  "options": [
+    { "text": "Man darf sich seinen Wohnort selbst aussuchen.", "translation": "شما می‌توانید محل زندگی‌تان را انتخاب کنید." },
+    { "text": "Man kann seinen Beruf wechseln.", "translation": "می‌توانید شغلتان را تغییر دهید." },
+    { "text": "Man darf sich für eine andere Religion entscheiden.", "translation": "می‌توانید دین دیگری انتخاب کنید." },
+    { "text": "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen.", "translation": "فقط می‌توانید با لباس‌های سبک در ملاء عام ظاهر شوید." }
+  ],
+  "correct": "Man darf sich seinen Wohnort selbst aussuchen.",
+  "state": "Deutschland"
+}
