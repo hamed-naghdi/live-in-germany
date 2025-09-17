@@ -50,3 +50,18 @@
   "correct": "Meinungsfreiheit",
   "state": "Deutschland"
 }
+{ "index": { "_id": "5" } }
+{
+  "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+  "question_translation": "انتخابات در آلمان آزاد است. این به چه معناست؟",
+  "options": [
+    { "text": "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.", "translation": "اگر به یک نامزد خاص رأی دهید، مجاز به دریافت پول هستید." },
+    { "text": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.", "translation": "فقط افرادی که هرگز به زندان نرفته‌اند، مجاز به رأی دادن هستند." },
+    { 
+      "text": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.", 
+      "translation": "رأی‌دهنده ممکن است در انتخابات تحت تأثیر قرار نگیرد یا مجبور به رأی دادن به شیوه‌ای خاص نشود و ممکن است در نتیجه انتخابات متحمل هیچ گونه ضرر و زیانی نشود." },
+    { "text": "Alle wahlberechtigten Personen müssen wählen.", "translation": "همه واجدین شرایط باید رأی بدهند." }
+  ],
+  "correct": "",
+  "state": "Deutschland"
+}
