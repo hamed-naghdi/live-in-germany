@@ -117,3 +117,16 @@
   "correct": "Asyl",
   "state": "Deutschland"
 }
+{ "index": { "_id": "10" } }
+{
+  "question": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+  "question_translation": "چه چیزی با قانون اساسی آلمان سازگار است؟",
+  "options": [
+    { "text": "die Prügelstrafe", "translation": "تنبیه بدنی" },
+    { "text": "die Folter", "translation": "شکنجه" },
+    { "text": "die Todesstrafe", "translation": "مجازات اعدام" },
+    { "text": "die Geldstrafe", "translation": "جریمه نقدی" }
+  ],
+  "correct": "die Geldstrafe",
+  "state": "Deutschland"
+}
