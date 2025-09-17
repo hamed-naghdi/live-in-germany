@@ -78,3 +78,16 @@
   "correct": "Grundgesetz",
   "state": "Deutschland"
 }
+{ "index": { "_id": "7" } }
+{
+  "question": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf ...",
+  "question_translation": "کدام حق، یکی از حقوق اساسی تضمین شده توسط قانون اساسی آلمان است؟ حق ...",
+  "options": [
+    { "text": "Glaubens- und Gewissensfreiheit.", "translation": "آزادی مذهب و وجدان." },
+    { "text": "Unterhaltung.", "translation": "سرگرمی." },
+    { "text": "Arbeit.", "translation": "کار." },
+    { "text": "Wohnung.", "translation": "مسکن." }
+  ],
+  "correct": "Glaubens- und Gewissensfreiheit.",
+  "state": "Deutschland"
+}
