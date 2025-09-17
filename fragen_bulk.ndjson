@@ -368,3 +368,16 @@
   "correct": "Adler",
   "state": "Deutschland"
 }
+{ "index": { "_id": "30" } }
+{
+  "question": "Was ist kein Merkmal unserer Demokratie?",
+  "question_translation": "کدام مورد از ویژگی‌های دموکراسی ما نیست؟",
+  "options": [
+    { "text": "regelmäßige Wahlen", "translation": "انتخابات منظم" },
+    { "text": "Pressezensur", "translation": "سانسور مطبوعات" },
+    { "text": "Meinungsfreiheit", "translation": "آزادی بیان" },
+    { "text": "verschiedene Parteien", "translation": "احزاب مختلف" }
+  ],
+  "correct": "Pressezensur",
+  "state": "Deutschland"
+}
