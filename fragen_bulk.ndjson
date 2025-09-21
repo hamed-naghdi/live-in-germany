@@ -381,3 +381,186 @@
   "correct": "Pressezensur",
   "state": "Deutschland"
 }
+{ "index": { "_id": "31" } }
+{
+  "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...",
+  "question_translation": "در آلمان به همکاری احزاب برای تشکیل دولت ... گفته می شود.",
+  "options": [
+    { "text": "Einheit.", "translation": "وحدت" },
+    { "text": "Koalition.", "translation": "ائتلاف" },
+    { "text": "Ministerium.", "translation": "وزارت" },
+    { "text": "Fraktion.", "translation": "گروه پارلمانی" }
+  ],
+  "correct": "Koalition",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "32" } }
+{
+  "question": "Was ist keine staatliche Gewalt in Deutschland?",
+  "question_translation": "چه چیزی در آلمان قدرت دولتی نیست؟",
+  "options": [
+    { "text": "Gesetzgebung", "translation": "قانونگذاری" },
+    { "text": "Regierung", "translation": "دولت" },
+    { "text": "Presse", "translation": "مطبوعات" },
+    { "text": "Rechtsprechung", "translation": "رویه قضایی" }
+  ],
+  "correct": "Presse",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "33" } }
+{
+  "question": "Welche Aussage ist richtig? in Deutschland ...",
+  "question_translation": "کدام بیانیه/جمله صحیح است؟ در آلمان...",
+  "options": [
+    { "text": "sind Staat und Religionsgemeinschaften voneinander getrennt.", "translation": "دولت و جوامع مذهبی از یکدیگر جدا هستند." },
+    { "text": "bilden die Religionsgemeinschaften den Staat.", "translation": "جوامع مذهبی، دولت را تشکیل می‌دهند." },
+    { "text": "ist der Staat abhängig von den Religionsgemeinschaften.", "translation": "دولت به جوامع مذهبی وابسته است." },
+    { "text": "bilden Staat und Religionsgemeinschaften eine Einheit.", "translation": "دولت و جوامع مذهبی یک وحدت را تشکیل می‌دهند." }
+  ],
+  "correct": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "34" } }
+{
+  "question": "Was ist Deutschland nicht?",
+  "question_translation": "آلمان چه چیزی نیست؟",
+  "options": [
+    { "text": "eine Demokratie", "translation": "دموکراسی" },
+    { "text": "ein Rechtsstaat", "translation": "دولت مشروطه" },
+    { "text": "eine Monarchie", "translation": "سلطنتی" },
+    { "text": "ein Sozialstaat", "translation": "دولت رفاه" }
+  ],
+  "correct": "eine Monarchie",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "35" } }
+{
+  "question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+  "question_translation": "دولت آلمان چگونه هزینه‌های تأمین اجتماعی را تأمین می‌کند؟",
+  "options": [
+    { "text": "Kirchensteuern", "translation": "مالیات کلیسا" },
+    { "text": "Sozialabgaben", "translation": "کمک‌های تأمین اجتماعی" },
+    { "text": "Spendengeldern", "translation": "کمک‌های مالی" },
+    { "text": "Vereinsbeiträgen", "translation": "هزینه‌های باشگاه" }
+  ],
+  "correct": "Sozialabgaben",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "36" } }
+{
+  "question": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+  "question_translation": "کدام اقدام، امنیت اجتماعی را در آلمان ایجاد می‌کند؟",
+  "options": [
+    { "text": "die Krankenversicherung", "translation": "بیمه سلامت" },
+    { "text": "die Autoversicherung", "translation": "بیمه خودرو" },
+    { "text": "die Gebäudeversicherung", "translation": "بیمه ساختمان" },
+    { "text": "die Haftpflichtversicherung", "translation": "بیمه مسئولیت" }
+  ],
+  "correct": "die Krankenversicherung",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "37" } }
+{
+  "question": "Wie werden die Regierungschefs / Regierungschefinnen der meisten Bundesländer in Deutschland genannt?",
+  "question_translation": "روسای دولت اکثر ایالت‌های فدرال در آلمان چه نامیده می‌شوند؟",
+  "options": [
+    { "text": "Erster Minister/ Erste Ministerin", "translation": "وزیر اول" },
+    { "text": "Premierminister/ Premierministerin", "translation": "نخست وزیر" },
+    { "text": "Senator/ Senatorin", "translation": "سناتور" },
+    { "text": "Ministerpräsident/ Ministerpräsidentin", "translation": "نخست وزیر" }
+  ],
+  "correct": "Ministerpräsident/ Ministerpräsidentin",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "38" } }
+{
+  "question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer ...",
+  "question_translation": "جمهوری فدرال آلمان کشوری دموکراتیک و اجتماعی ... است",
+  "options": [
+    { "text": "Staatenverbund.", "translation": "انجمن ایالت‌ها" },
+    { "text": "Bundesstaat.", "translation": "ایالت" },
+    { "text": "Staatenbund.", "translation": "کنفدراسیون ایالت‌ها" },
+    { "text": "Zentralstaat.", "translation": "دولت مرکزی" }
+  ],
+  "correct": "Bundesstaat",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "39" } }
+{
+  "question": "Was hat jedes deutsche Bundesland?",
+  "question_translation": "هر ایالت فدرال آلمان چه دارد؟",
+  "options": [
+    { "text": "einen eigenen Außenminister / eine eigene Außenministerin", "translation": "وزیر امور خارجه خودش" },
+    { "text": "eine eigene Währung", "translation": "واحد پول خودش" },
+    { "text": "eine eigene Armee", "translation": "ارتش خودش" },
+    { "text": "eine eigene Regierung", "translation": "دولت خودش" }
+  ],
+  "correct": "eine eigene Regierung",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "40" } }
+{
+  "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+  "question_translation": "سرود ملی آلمان با کدام کلمات آغاز می‌شود؟",
+  "options": [
+    { "text": "Völker, hört die Signale …", "translation": "ای مردم، به سیگنال‌ها گوش دهید ..." },
+    { "text": "Einigkeit und Recht und Freiheit …", "translation": "وحدت و عدالت و آزادی ..." },
+    { "text": "Freude schöner Götterfunken …", "translation": "ای شادی، جرقه‌ی زیبای خدایان ..." },
+    { "text": "Deutschland einig Vaterland …", "translation": "آلمان، سرزمین پدری متحد ..." }
+  ],
+  "correct": "Einigkeit und Recht und Freiheit …",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "41" } }
+{
+  "question": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+  "question_translation": "چرا در یک دموکراسی بیش از یک حزب وجود دارد؟",
+  "options": [
+    { "text": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden", "translation": "زیرا بدین وسیله دیدگاه‌های متفاوت شهروندان نمایندگی می‌شوند" },
+    { "text": "damit Bestechung in der Politik begrenzt wird", "translation": "تا رشوه‌خواری در سیاست محدود شود" },
+    { "text": "um politische Demonstrationen zu verhindern", "translation": "برای جلوگیری از تظاهرات سیاسی" },
+    { "text": "um wirtschaftlichen Wettbewerb anzuregen", "translation": "برای تشویق رقابت اقتصادی" }
+  ],
+  "correct": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "42" } }
+{
+  "question": "Wer beschließt in Deutschland ein neues Gesetz?",
+  "question_translation": "چه کسی در آلمان یک قانون جدید را تصویب می‌کند؟",
+  "options": [
+    { "text": "die Regierung", "translation": "دولت" },
+    { "text": "das Parlament", "translation": "پارلمان" },
+    { "text": "die Gerichte", "translation": "دادگاه‌ها" },
+    { "text": "die Polizei", "translation": "پلیس" }
+  ],
+  "correct": "das Parlament",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "43" } }
+{
+  "question": "Wann kann in Deutschland eine Partei verboten werden?",
+  "question_translation": "چه زمانی یک حزب در آلمان می‌تواند ممنوع شود؟",
+  "options": [
+    { "text": "wenn ihr Wahlkampf zu teuer ist", "translation": "اگر کارزار انتخاباتی‌اش خیلی گران باشد" },
+    { "text": "wenn sie gegen die Verfassung kämpft", "translation": "اگر علیه قانون اساسی مبارزه کند" },
+    { "text": "wenn sie Kritik am Staatsoberhaupt äußert", "translation": "اگر از رئیس‌جمهور انتقاد کند" },
+    { "text": "wenn ihr Programm eine neue Richtung vorschlägt", "translation": "اگر برنامه‌اش جهت جدیدی پیشنهاد دهد" }
+  ],
+  "correct": "wenn sie gegen die Verfassung kämpft",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "44" } }
+{
+  "question": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
+  "question_translation": "یک شهروند در آلمان چه کسی را نمی‌تواند به‌طور مستقیم انتخاب کند؟",
+  "options": [
+    { "text": "Abgeordnete des EU-Parlaments", "translation": "نمایندگان پارلمان اروپا" },
+    { "text": "Die Bundespräsidentin/den Bundespräsidenten", "translation": "رئیس‌جمهور فدرال" },
+    { "text": "Landtagsabgeordnete", "translation": "نمایندگان ایالتی" },
+    { "text": "Bundestagsabgeordnete", "translation": "نمایندگان بوندستاگ" }
+  ],
+  "correct": "Die Bundespräsidentin/den Bundespräsidenten",
+  "state": "Deutschland"
+}
+
