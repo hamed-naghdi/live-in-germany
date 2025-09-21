@@ -563,4 +563,17 @@
   "correct": "Die Bundespräsidentin/den Bundespräsidenten",
   "state": "Deutschland"
 }
+{ "index": { "_id": "45" } }
+{
+  "question": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+  "question_translation": "بیمه مراقبت طولانی‌مدت به کدام نوع بیمه تعلق دارد؟",
+  "options": [
+    { "text": "Sozialversicherung", "translation": "بیمه اجتماعی" },
+    { "text": "Unfallversicherung", "translation": "بیمه حوادث" },
+    { "text": "Hausratsversicherung", "translation": "بیمه وسایل منزل" },
+    { "text": "Haftpflicht- und Feuerversicherung", "translation": "بیمه مسئولیت و آتش‌سوزی" }
+  ],
+  "correct": "Sozialversicherung",
+  "state": "Deutschland"
+}
 
