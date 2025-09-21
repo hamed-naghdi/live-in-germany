@@ -589,4 +589,17 @@
   "correct": "Er baut Straßen und Schulen.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "47" } }
+{
+  "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+  "question_translation": "دولت آلمان وظایف زیادی دارد. کدام وظیفه به آن تعلق ندارد؟",
+  "options": [
+    { "text": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.", "translation": "او برای همه شهروندان سفرهای تفریحی می‌پردازد." },
+    { "text": "Er zahlt Kindergeld.", "translation": "او کمک‌هزینه کودک پرداخت می‌کند." },
+    { "text": "Er unterstützt Museen.", "translation": "او از موزه‌ها حمایت می‌کند." },
+    { "text": "Er fördert Sportlerinnen und Sportler.", "translation": "او از ورزشکاران حمایت می‌کند." }
+  ],
+  "correct": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+  "state": "Deutschland"
+}
 
