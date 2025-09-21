@@ -576,4 +576,17 @@
   "correct": "Sozialversicherung",
   "state": "Deutschland"
 }
+{ "index": { "_id": "46" } }
+{
+  "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+  "question_translation": "دولت آلمان وظایف زیادی دارد. کدام وظیفه به آن تعلق دارد؟",
+  "options": [
+    { "text": "Er baut Straßen und Schulen.", "translation": "او جاده‌ها و مدارس می‌سازد." },
+    { "text": "Er verkauft Lebensmittel und Kleidung.", "translation": "او غذا و لباس می‌فروشد." },
+    { "text": "Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.", "translation": "او همه ساکنان را به‌طور رایگان با روزنامه تأمین می‌کند." },
+    { "text": "Er produziert Autos und Busse.", "translation": "او خودرو و اتوبوس تولید می‌کند." }
+  ],
+  "correct": "Er baut Straßen und Schulen.",
+  "state": "Deutschland"
+}
 
