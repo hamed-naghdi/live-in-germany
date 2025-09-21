@@ -602,4 +602,17 @@
   "correct": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
   "state": "Deutschland"
 }
+{ "index": { "_id": "48" } }
+{
+  "question": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+  "question_translation": "کدام نهاد به نهادهای قانون اساسی آلمان تعلق ندارد؟",
+  "options": [
+    { "text": "der Bundesrat", "translation": "بوندسرات" },
+    { "text": "die Bundespräsidentin/der Bundespräsident", "translation": "رئیس‌جمهور فدرال" },
+    { "text": "die Bürgerversammlung", "translation": "مجمع شهروندان" },
+    { "text": "die Regierung", "translation": "دولت" }
+  ],
+  "correct": "die Bürgerversammlung",
+  "state": "Deutschland"
+}
 
