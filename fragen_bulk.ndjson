@@ -615,4 +615,680 @@
   "correct": "die Bürgerversammlung",
   "state": "Deutschland"
 }
+{ "index": { "_id": "49" } }
+{
+  "question": "Wer bestimmt in Deutschland die Schulpolitik?",
+  "question_translation": "چه کسی در آلمان سیاست‌های آموزشی را تعیین می‌کند؟",
+  "options": [
+    { "text": "die Lehrer und Lehrerinnen", "translation": "معلمان" },
+    { "text": "die Bundesländer", "translation": "ایالت‌های فدرال" },
+    { "text": "das Familienministerium", "translation": "وزارت خانواده" },
+    { "text": "die Universitäten", "translation": "دانشگاه‌ها" }
+  ],
+  "correct": "die Bundesländer",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "50" } }
+{
+  "question": "Die Wirtschaftsform in Deutschland nennt man …",
+  "question_translation": "نوع نظام اقتصادی در آلمان چیست؟",
+  "options": [
+    { "text": "freie Zentralwirtschaft.", "translation": "اقتصاد مرکزی آزاد" },
+    { "text": "soziale Marktwirtschaft.", "translation": "اقتصاد اجتماعی بازار" },
+    { "text": "gelenkte Zentralwirtschaft.", "translation": "اقتصاد مرکزی هدایت‌شده" },
+    { "text": "Planwirtschaft.", "translation": "اقتصاد برنامه‌ریزی‌شده" }
+  ],
+  "correct": "soziale Marktwirtschaft.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "51" } }
+{
+  "question": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
+  "question_translation": "در یک دولت حقوقی دموکراتیک، چه چیزی جزو اصول آن نیست؟",
+  "options": [
+    { "text": "Menschen sich kritisch über die Regierung äußern können.", "translation": "افراد می‌توانند به‌طور انتقادی درباره دولت نظر دهند." },
+    { "text": "Bürger friedlich demonstrieren gehen dürfen.", "translation": "شهروندان می‌توانند به‌طور مسالمت‌آمیز تظاهرات کنند." },
+    { "text": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.", "translation": "افراد بدون دلیل توسط پلیس خصوصی دستگیر شوند." },
+    { "text": "jemand ein Verbrechen begeht und deshalb verhaftet wird.", "translation": "کسی جرمی مرتکب شود و به همین دلیل دستگیر شود." }
+  ],
+  "correct": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "52" } }
+{
+  "question": "Was bedeutet „Volkssouveränität“? Alle Staatsgewalt geht vom ...",
+  "question_translation": "«حاکمیت مردم» به چه معناست؟ تمام قدرت دولتی از کجا سرچشمه می‌گیرد؟",
+  "options": [
+    { "text": "Volke aus.", "translation": "مردم" },
+    { "text": "Bundestag aus.", "translation": "بوندستاگ" },
+    { "text": "preußischen König aus.", "translation": "پادشاه پروس" },
+    { "text": "Bundesverfassungsgericht aus.", "translation": "دیوان قانون اساسی فدرال" }
+  ],
+  "correct": "Volke aus.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "53" } }
+{
+  "question": "Was bedeutet „Rechtsstaat“ in Deutschland?",
+  "question_translation": "«دولت قانون‌مدار» در آلمان به چه معناست؟",
+  "options": [
+    { "text": "Der Staat hat Recht.", "translation": "دولت همیشه حق دارد." },
+    { "text": "Es gibt nur rechte Parteien.", "translation": "فقط احزاب راست‌گرا وجود دارند." },
+    { "text": "Die Bürgerinnen und Bürger entscheiden über Gesetze.", "translation": "شهروندان درباره قوانین تصمیم می‌گیرند." },
+    { "text": "Der Staat muss die Gesetze einhalten.", "translation": "دولت باید از قوانین پیروی کند." }
+  ],
+  "correct": "Der Staat muss die Gesetze einhalten.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "54" } }
+{
+  "question": "Was ist keine staatliche Gewalt in Deutschland?",
+  "question_translation": "کدام مورد یک قوه حکومتی در آلمان نیست؟",
+  "options": [
+    { "text": "Legislative", "translation": "قوه مقننه" },
+    { "text": "Judikative", "translation": "قوه قضائیه" },
+    { "text": "Exekutive", "translation": "قوه مجریه" },
+    { "text": "Direktive", "translation": "دستوری / دیریکتیو (وجود ندارد)" }
+  ],
+  "correct": "Direktive",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "55" } }
+{
+  "question": "Was zeigt dieses Bild?",
+  "question_translation": "این تصویر چه چیزی را نشان می‌دهد؟",
+  "options": [
+    { "text": "den Bundestagssitz in Berlin", "translation": "محل استقرار بوندستاگ در برلین" },
+    { "text": "das Bundesverfassungsgericht in Karlsruhe", "translation": "دادگاه قانون اساسی فدرال در کارلسروهه" },
+    { "text": "das Bundesratsgebäude in Berlin", "translation": "ساختمان بوندسرات در برلین" },
+    { "text": "das Bundeskanzleramt in Berlin", "translation": "صدراعظمی فدرال در برلین" }
+  ],
+  "correct": "den Bundestagssitz in Berlin",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "56" } }
+{
+  "question": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+  "question_translation": "کدام اداره در آلمان به اداره‌ی شهرداری تعلق دارد؟",
+  "options": [
+    { "text": "Pfarramt", "translation": "اداره کلیسا / دفتر کشیش" },
+    { "text": "Ordnungsamt", "translation": "اداره نظم (زیرمجموعه شهرداری)" },
+    { "text": "Finanzamt", "translation": "اداره مالیات" },
+    { "text": "Auswärtiges Amt", "translation": "وزارت امور خارجه" }
+  ],
+  "correct": "Ordnungsamt",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "57" } }
+{
+  "question": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
+  "question_translation": "چه کسی معمولاً به‌عنوان رئیس بوندستاگ آلمان انتخاب می‌شود؟",
+  "options": [
+    { "text": "die/der älteste Abgeordnete im Parlament", "translation": "مسن‌ترین نماینده در پارلمان" },
+    { "text": "die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes", "translation": "وزیر‌اول بزرگ‌ترین ایالت" },
+    { "text": "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler", "translation": "یک صدراعظم سابق" },
+    { "text": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion", "translation": "یک نماینده از قوی‌ترین فراکسیون" }
+  ],
+  "correct": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "58" } }
+{
+  "question": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+  "question_translation": "چه کسی در آلمان وزیران دولت فدرال را منصوب می‌کند؟",
+  "options": [
+    { "text": "die Präsidentin/der Präsident des Bundesverfassungsgerichtes", "translation": "رئیس دادگاه قانون اساسی فدرال" },
+    { "text": "die Bundespräsidentin/der Bundespräsident", "translation": "رئیس‌جمهور فدرال" },
+    { "text": "die Bundesratspräsidentin/der Bundesratspräsident", "translation": "رئیس بوندسرات" },
+    { "text": "die Bundestagspräsidentin/der Bundestagspräsident", "translation": "رئیس بوندستاگ" }
+  ],
+  "correct": "die Bundespräsidentin/der Bundespräsident",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "59" } }
+{
+  "question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+  "question_translation": "چند سال پیش نخستین جامعه یهودی در قلمرو آلمان امروزی وجود داشت؟",
+  "options": [
+    { "text": "vor etwa 300 Jahren", "translation": "حدود ۳۰۰ سال پیش" },
+    { "text": "vor etwa 700 Jahren", "translation": "حدود ۷۰۰ سال پیش" },
+    { "text": "vor etwa 1150 Jahren", "translation": "حدود ۱۱۵۰ سال پیش" },
+    { "text": "vor etwa 1700 Jahren", "translation": "حدود ۱۷۰۰ سال پیش" }
+  ],
+  "correct": "vor etwa 1700 Jahren",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "60" } }
+{
+  "question": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
+  "question_translation": "در آلمان، بوندستاگ و بوندسرات به کدام قوه تعلق دارند؟",
+  "options": [
+    { "text": "Exekutive.", "translation": "قوه مجریه" },
+    { "text": "Legislative.", "translation": "قوه مقننه" },
+    { "text": "Direktive.", "translation": "دیریکتیو / دستوری (وجود ندارد)" },
+    { "text": "Judikative.", "translation": "قوه قضائیه" }
+  ],
+  "correct": "Legislative.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "61" } }
+{
+  "question": "Was bedeutet „Volkssouveränität“?",
+  "question_translation": "«حاکمیت مردم» به چه معناست؟",
+  "options": [
+    { "text": "Die Königin/der König herrscht über das Volk.", "translation": "ملکه/پادشاه بر مردم حکومت می‌کند." },
+    { "text": "Das Bundesverfassungsgericht steht über der Verfassung.", "translation": "دادگاه قانون اساسی فدرال بالاتر از قانون اساسی است." },
+    { "text": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.", "translation": "انجمن‌های صنفی همراه با دولت حاکمیت را اعمال می‌کنند." },
+    { "text": "Die Staatsgewalt geht vom Volke aus.", "translation": "قدرت دولتی از مردم سرچشمه می‌گیرد." }
+  ],
+  "correct": "Die Staatsgewalt geht vom Volke aus.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "62" } }
+{
+  "question": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
+  "question_translation": "وقتی پارلمان یکی از ایالت‌های آلمان انتخاب می‌شود، به آن چه می‌گویند؟",
+  "options": [
+    { "text": "Kommunalwahl", "translation": "انتخابات محلی" },
+    { "text": "Landtagswahl", "translation": "انتخابات پارلمان ایالتی" },
+    { "text": "Europawahl", "translation": "انتخابات اروپا" },
+    { "text": "Bundestagswahl", "translation": "انتخابات پارلمان فدرال" }
+  ],
+  "correct": "Landtagswahl",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "63" } }
+{
+  "question": "Was gehört in Deutschland nicht zur Exekutive?",
+  "question_translation": "چه چیزی در آلمان به قوه مجریه تعلق ندارد؟",
+  "options": [
+    { "text": "die Polizei", "translation": "پلیس" },
+    { "text": "die Gerichte", "translation": "دادگاه‌ها" },
+    { "text": "das Finanzamt", "translation": "اداره مالیات" },
+    { "text": "die Ministerien", "translation": "وزارتخانه‌ها" }
+  ],
+  "correct": "die Gerichte",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "64" } }
+{
+  "question": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
+  "question_translation": "جمهوری فدرال آلمان امروز به چه بخش‌هایی تقسیم شده است؟",
+  "options": [
+    { "text": "vier Besatzungszonen.", "translation": "چهار منطقه اشغالی" },
+    { "text": "einen Oststaat und einen Weststaat.", "translation": "یک دولت شرقی و یک دولت غربی" },
+    { "text": "16 Kantone.", "translation": "۱۶ کانتون" },
+    { "text": "Bund, Länder und Kommunen.", "translation": "فدرال، ایالت‌ها و شهرداری‌ها" }
+  ],
+  "correct": "Bund, Länder und Kommunen.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "65" } }
+{
+  "question": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
+  "question_translation": "کدام مورد جزو وظایف بوندستاگ آلمان نیست؟",
+  "options": [
+    { "text": "Gesetze zu entwerfen.", "translation": "طرح قوانین" },
+    { "text": "die Bundesregierung zu kontrollieren.", "translation": "نظارت بر دولت فدرال" },
+    { "text": "die Bundeskanzlerin/den Bundeskanzler zu wählen.", "translation": "انتخاب صدراعظم" },
+    { "text": "das Bundeskabinett zu bilden.", "translation": "تشکیل کابینه فدرال" }
+  ],
+  "correct": "das Bundeskabinett zu bilden.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "66" } }
+{
+  "question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+  "question_translation": "کدام شهرها بزرگ‌ترین جوامع یهودی را در آلمان دارند؟",
+  "options": [
+    { "text": "Berlin und München", "translation": "برلین و مونیخ" },
+    { "text": "Hamburg und Essen", "translation": "هامبورگ و اسن" },
+    { "text": "Nürnberg und Stuttgart", "translation": "نورنبرگ و اشتوتگارت" },
+    { "text": "Worms und Speyer", "translation": "ورمز و اشپایر" }
+  ],
+  "correct": "Berlin und München",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "67" } }
+{
+  "question": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+  "question_translation": "در آلمان، عمدتاً کدام مورد وظیفه ایالت‌های فدرال است؟",
+  "options": [
+    { "text": "Verteidigungspolitik", "translation": "سیاست دفاعی" },
+    { "text": "Außenpolitik", "translation": "سیاست خارجی" },
+    { "text": "Wirtschaftspolitik", "translation": "سیاست اقتصادی" },
+    { "text": "Schulpolitik", "translation": "سیاست آموزشی" }
+  ],
+  "correct": "Schulpolitik",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "68" } }
+{
+  "question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+  "question_translation": "چرا دولت در آلمان نظام آموزشی را کنترل می‌کند؟",
+  "options": [
+    { "text": "weil es in Deutschland nur staatliche Schulen gibt", "translation": "زیرا در آلمان فقط مدارس دولتی وجود دارد" },
+    { "text": "weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen", "translation": "زیرا همه دانش‌آموزان باید مدرک تحصیلی داشته باشند" },
+    { "text": "weil es in den Bundesländern verschiedene Schulen gibt", "translation": "زیرا در ایالت‌های فدرال مدارس مختلف وجود دارد" },
+    { "text": "weil es nach dem Grundgesetz seine Aufgabe ist", "translation": "زیرا بر اساس قانون اساسی، وظیفه دولت است" }
+  ],
+  "correct": "weil es nach dem Grundgesetz seine Aufgabe ist",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "69" } }
+{
+  "question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+  "question_translation": "جمهوری فدرال آلمان دارای ساختار سه‌سطحی اداری است. پایین‌ترین سطح سیاسی چه نام دارد؟",
+  "options": [
+    { "text": "Stadträte", "translation": "شورای شهر" },
+    { "text": "Landräte", "translation": "رئیس منطقه" },
+    { "text": "Gemeinden", "translation": "شهرداری‌ها / اجتماعات محلی" },
+    { "text": "Bezirksämter", "translation": "ادارات منطقه‌ای" }
+  ],
+  "correct": "Gemeinden",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "70" } }
+{
+  "question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?",
+  "question_translation": "رئیس‌جمهور آلمان، گوستاو هاینمان، در سال ۱۹۷۴ هلموت اشمیت را به‌عنوان صدراعظم منصوب می‌کند. کدام مورد از وظایف رئیس‌جمهور آلمان است؟",
+  "options": [
+    { "text": "Sie/Er führt die Regierungsgeschäfte.", "translation": "او امور اجرایی دولت را هدایت می‌کند." },
+    { "text": "Sie/Er kontrolliert die Regierungspartei.", "translation": "او حزب حاکم را کنترل می‌کند." },
+    { "text": "Sie/Er wählt die Ministerinnen/Minister aus.", "translation": "او وزیران را انتخاب می‌کند." },
+    { "text": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.", "translation": "او صدراعظم را برای انتخاب پیشنهاد می‌دهد." }
+  ],
+  "correct": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "71" } }
+{
+  "question": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er …",
+  "question_translation": "صدراعظم آلمان اغلب در کجا حضور دارد؟",
+  "options": [
+    { "text": "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.", "translation": "در بن، زیرا آنجا صدراعظمی و بوندستاگ قرار دارند." },
+    { "text": "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.", "translation": "در قلعه مزبورگ، مهمان‌خانه دولت فدرال، برای پذیرش مهمانان رسمی." },
+    { "text": "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.", "translation": "در قلعه بلوِو، دفتر رئیس‌جمهور، برای پذیرش مهمانان رسمی." },
+    { "text": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.", "translation": "در برلین، زیرا آنجا صدراعظمی و بوندستاگ قرار دارند." }
+  ],
+  "correct": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "72" } }
+{
+  "question": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+  "question_translation": "نام صدراعظم کنونی آلمان چیست؟",
+  "options": [
+    { "text": "Gerhard Schröder", "translation": "گئرد شرودر" },
+    { "text": "Angela Merkel", "translation": "آنگلا مرکل" },
+    { "text": "Ursula von der Leyen", "translation": "اورزولا فون در لاین" },
+    { "text": "Friedrich Merz", "translation": "فریدریش مرز" }
+  ],
+  "correct": "Friedrich Merz",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "73" } }
+{
+  "question": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
+  "question_translation": "در حال حاضر دو فراکسیون بزرگ در بوندستاگ آلمان کدامند؟",
+  "options": [
+    { "text": "CDU/CSU und AfD.", "translation": "اتحادیه دموکرات مسیحی/اتحادیه سوسیال مسیحی و آلترناتیو برای آلمان." },
+    { "text": "Die Linke und Bündnis 90/Die Grünen.", "translation": "چپ و اتحاد ۹۰/سبزها." },
+    { "text": "Bündnis 90/Die Grünen und SPD.", "translation": "اتحاد ۹۰/سبزها و حزب سوسیال دموکرات آلمان." },
+    { "text": "Die Linke und CDU/CSU.", "translation": "چپ و اتحادیه دموکرات مسیحی/اتحادیه سوسیال مسیحی." }
+  ],
+  "correct": "CDU/CSU und AfD.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "74" } }
+{
+  "question": "Wie heißt das Parlament für ganz Deutschland?",
+  "question_translation": "پارلمان کل آلمان چه نام دارد؟",
+  "options": [
+    { "text": "Bundesversammlung", "translation": "مجمع فدرال" },
+    { "text": "Volkskammer", "translation": "کمیسیون مردمی" },
+    { "text": "Bundestag", "translation": "بوندستاگ" },
+    { "text": "Bundesgerichtshof", "translation": "دادگاه عالی فدرال" }
+  ],
+  "correct": "Bundestag",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "75" } }
+{
+  "question": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+  "question_translation": "رئیس‌جمهور کنونی آلمان چه نام دارد؟",
+  "options": [
+    { "text": "Frank-Walter Steinmeier", "translation": "فرانک-والتر شتاین‌مایر" },
+    { "text": "Bärbel Bas", "translation": "بربل باس" },
+    { "text": "Bodo Ramelow", "translation": "بودو راملو" },
+    { "text": "Joachim Gauck", "translation": "یواخیم گاوک" }
+  ],
+  "correct": "Frank-Walter Steinmeier",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "76" } }
+{
+  "question": "Was bedeutet die Abkürzung CDU in Deutschland?",
+  "question_translation": "مخفف CDU در آلمان چه معنی می‌دهد؟",
+  "options": [
+    { "text": "Christliche Deutsche Union", "translation": "اتحاد مسیحی آلمان" },
+    { "text": "Club Deutscher Unternehmer", "translation": "باشگاه کارآفرینان آلمان" },
+    { "text": "Christlicher Deutscher Umweltschutz", "translation": "حفاظت محیط زیست مسیحی آلمان" },
+    { "text": "Christlich Demokratische Union", "translation": "اتحاد دموکراتیک مسیحی" }
+  ],
+  "correct": "Christlich Demokratische Union",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "77" } }
+{
+  "question": "Was ist die Bundeswehr?",
+  "question_translation": "بوندس‌ور چیست؟",
+  "options": [
+    { "text": "die deutsche Polizei", "translation": "پلیس آلمان" },
+    { "text": "ein deutscher Hafen", "translation": "یک بندر آلمان" },
+    { "text": "eine deutsche Bürgerinitiative", "translation": "یک ابتکار شهروندی آلمانی" },
+    { "text": "die deutsche Armee", "translation": "ارتش آلمان" }
+  ],
+  "correct": "die deutsche Armee",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "78" } }
+{
+  "question": "Was bedeutet die Abkürzung SPD?",
+  "question_translation": "مخفف SPD در آلمان چه معنی می‌دهد؟",
+  "options": [
+    { "text": "Sozialistische Partei Deutschlands", "translation": "حزب سوسیالیست‌های آلمان" },
+    { "text": "Sozialpolitische Partei Deutschlands", "translation": "حزب سیاست اجتماعی آلمان" },
+    { "text": "Sozialdemokratische Partei Deutschlands", "translation": "حزب سوسیال دموکرات آلمان" },
+    { "text": "Sozialgerechte Partei Deutschlands", "translation": "حزب عدالت اجتماعی آلمان" }
+  ],
+  "correct": "Sozialdemokratische Partei Deutschlands",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "79" } }
+{
+  "question": "Was bedeutet die Abkürzung FDP in Deutschland?",
+  "question_translation": "مخفف FDP در آلمان چه معنی می‌دهد؟",
+  "options": [
+    { "text": "Friedliche Demonstrative Partei", "translation": "حزب تظاهرات مسالمت‌آمیز" },
+    { "text": "Freie Deutschland Partei", "translation": "حزب آلمان آزاد" },
+    { "text": "Führende Demokratische Partei", "translation": "حزب دموکراتیک پیشرو" },
+    { "text": "Freie Demokratische Partei", "translation": "حزب دموکراتیک آزاد" }
+  ],
+  "correct": "Freie Demokratische Partei",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "80" } }
+{
+  "question": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+  "question_translation": "کدام دادگاه در آلمان مسئول تفسیر قانون اساسی است؟",
+  "options": [
+    { "text": "Oberlandesgericht", "translation": "دادگاه عالی ایالتی" },
+    { "text": "Amtsgericht", "translation": "دادگاه ناحیه‌ای" },
+    { "text": "Bundesverfassungsgericht", "translation": "دادگاه قانون اساسی فدرال" },
+    { "text": "Verwaltungsgericht", "translation": "دادگاه اداری" }
+  ],
+  "correct": "Bundesverfassungsgericht",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "81" } }
+{
+  "question": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+  "question_translation": "چه کسی صدراعظم آلمان را انتخاب می‌کند؟",
+  "options": [
+    { "text": "der Bundesrat", "translation": "بوندسرات" },
+    { "text": "die Bundesversammlung", "translation": "مجمع فدرال" },
+    { "text": "das Volk", "translation": "مردم" },
+    { "text": "der Bundestag", "translation": "بوندستاگ" }
+  ],
+  "correct": "der Bundestag",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "82" } }
+{
+  "question": "Wer leitet das deutsche Bundeskabinett?",
+  "question_translation": "چه کسی کابینه فدرال آلمان را هدایت می‌کند؟",
+  "options": [
+    { "text": "die Bundestagspräsidentin/der Bundestagspräsident", "translation": "رئیس بوندستاگ" },
+    { "text": "die Bundespräsidentin/der Bundespräsident", "translation": "رئیس‌جمهور فدرال" },
+    { "text": "die Bundesratspräsidentin/der Bundesratspräsident", "translation": "رئیس بوندسرات" },
+    { "text": "die Bundeskanzlerin/der Bundeskanzler", "translation": "صدراعظم" }
+  ],
+  "correct": "die Bundeskanzlerin/der Bundeskanzler",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "83" } }
+{
+  "question": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+  "question_translation": "چه کسی صدراعظم آلمان را انتخاب می‌کند؟",
+  "options": [
+    { "text": "das Volk", "translation": "مردم" },
+    { "text": "die Bundesversammlung", "translation": "مجمع فدرال" },
+    { "text": "der Bundestag", "translation": "بوندستاگ" },
+    { "text": "die Bundesregierung", "translation": "دولت فدرال" }
+  ],
+  "correct": "der Bundestag",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "84" } }
+{
+  "question": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er …",
+  "question_translation": "وظیفه اصلی رئیس‌جمهور آلمان چیست؟",
+  "options": [
+    { "text": "regiert das Land.", "translation": "کشور را اداره می‌کند." },
+    { "text": "entwirft die Gesetze.", "translation": "قوانین را تدوین می‌کند." },
+    { "text": "repräsentiert das Land.", "translation": "کشور را نمایندگی می‌کند." },
+    { "text": "überwacht die Einhaltung der Gesetze.", "translation": "رعایت قوانین را نظارت می‌کند." }
+  ],
+  "correct": "repräsentiert das Land.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "85" } }
+{
+  "question": "Wer bildet den deutschen Bundesrat?",
+  "question_translation": "چه کسانی بوندسرات آلمان را تشکیل می‌دهند؟",
+  "options": [
+    { "text": "die Abgeordneten des Bundestages", "translation": "نمایندگان بوندستاگ" },
+    { "text": "die Ministerinnen und Minister der Bundesregierung", "translation": "وزیران دولت فدرال" },
+    { "text": "die Regierungsvertreter der Bundesländer", "translation": "نمایندگان دولت‌های ایالتی" },
+    { "text": "die Parteimitglieder", "translation": "اعضای حزب" }
+  ],
+  "correct": "die Regierungsvertreter der Bundesländer",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "86" } }
+{
+  "question": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
+  "question_translation": "چه کسی رئیس‌جمهور آلمان را انتخاب می‌کند؟",
+  "options": [
+    { "text": "die Bundesversammlung", "translation": "مجمع فدرال" },
+    { "text": "der Bundesrat", "translation": "بوندسرات" },
+    { "text": "das Bundesparlament", "translation": "پارلمان فدرال" },
+    { "text": "das Bundesverfassungsgericht", "translation": "دادگاه قانون اساسی فدرال" }
+  ],
+  "correct": "die Bundesversammlung",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "87" } }
+{
+  "question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+  "question_translation": "رئیس‌جمهور جمهوری فدرال آلمان کیست؟",
+  "options": [
+    { "text": "die Bundeskanzlerin/der Bundeskanzler", "translation": "صدراعظم" },
+    { "text": "die Bundespräsidentin/der Bundespräsident", "translation": "رئیس‌جمهور فدرال" },
+    { "text": "die Bundesratspräsidentin/der Bundesratspräsident", "translation": "رئیس بوندسرات" },
+    { "text": "die Bundestagspräsidentin/der Bundestagspräsident", "translation": "رئیس بوندستاگ" }
+  ],
+  "correct": "die Bundespräsidentin/der Bundespräsident",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "88" } }
+{
+  "question": "Die parlamentarische Opposition im Deutschen Bundestag …",
+  "question_translation": "اپوزیسیون پارلمانی در بوندستاگ آلمان چه کاری انجام می‌دهد؟",
+  "options": [
+    { "text": "kontrolliert die Regierung.", "translation": "دولت را کنترل می‌کند." },
+    { "text": "entscheidet, wer Bundesministerin/Bundesminister wird.", "translation": "تصمیم می‌گیرد چه کسی وزیر فدرال شود." },
+    { "text": "bestimmt, wer im Bundesrat sitzt.", "translation": "مشخص می‌کند چه کسی در بوندسرات می‌نشیند." },
+    { "text": "schlägt die Regierungschefinnen/Regierungschefs der Länder vor.", "translation": "رؤسای دولت ایالتی را پیشنهاد می‌دهد." }
+  ],
+  "correct": "kontrolliert die Regierung.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "89" } }
+{
+  "question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+  "question_translation": "در آلمان، اتحاد نمایندگان یک حزب در پارلمان چه نامیده می‌شود؟",
+  "options": [
+    { "text": "Verband", "translation": "اتحاد / انجمن" },
+    { "text": "Ältestenrat", "translation": "شورای کهنه‌کاران" },
+    { "text": "Fraktion", "translation": "فراکسیون" },
+    { "text": "Opposition", "translation": "اپوزیسیون" }
+  ],
+  "correct": "Fraktion",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "90" } }
+{
+  "question": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
+  "question_translation": "ایالت‌های فدرال آلمان از طریق چه نهادی در قانون‌گذاری فدرال مشارکت دارند؟",
+  "options": [
+    { "text": "den Bundesrat.", "translation": "بوندسرات" },
+    { "text": "die Bundesversammlung.", "translation": "مجمع فدرال" },
+    { "text": "den Bundestag.", "translation": "بوندستاگ" },
+    { "text": "die Bundesregierung.", "translation": "دولت فدرال" }
+  ],
+  "correct": "den Bundesrat.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "91" } }
+{
+  "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
+  "question_translation": "در آلمان، تغییر دولت در یک ایالت می‌تواند بر سیاست فدرال تأثیر بگذارد. اداره کشور چگونه تحت تأثیر قرار می‌گیرد؟",
+  "options": [
+    { "text": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.", "translation": "سخت‌تر می‌شود اگر اکثریت در بوندستاگ تغییر کند." },
+    { "text": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.", "translation": "آسان‌تر می‌شود اگر احزاب جدیدی وارد بوندسرات شوند." },
+    { "text": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.", "translation": "سخت‌تر می‌شود اگر اکثریت در بوندسرات تغییر کند." },
+    { "text": "leichter, wenn es sich um ein reiches Bundesland handelt.", "translation": "آسان‌تر می‌شود اگر ایالت ثروتمندی باشد." }
+  ],
+  "correct": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "92" } }
+{
+  "question": "Was bedeutet die Abkürzung CSU in Deutschland?",
+  "question_translation": "مخفف CSU در آلمان چه معنی می‌دهد؟",
+  "options": [
+    { "text": "Christlich Sichere Union", "translation": "اتحاد مسیحی امن" },
+    { "text": "Christlich Süddeutsche Union", "translation": "اتحاد مسیحی جنوب آلمان" },
+    { "text": "Christlich Sozialer Unternehmerverband", "translation": "اتحاد کارآفرینان اجتماعی مسیحی" },
+    { "text": "Christlich Soziale Union", "translation": "اتحاد اجتماعی مسیحی" }
+  ],
+  "correct": "Christlich Soziale Union",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "93" } }
+{
+  "question": "Je mehr „Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt, desto …",
+  "question_translation": "هر چه یک حزب در انتخابات بوندستاگ آلمان رأی دوم بیشتری کسب کند، چه اتفاقی می‌افتد؟",
+  "options": [
+    { "text": "weniger Erststimmen kann sie haben.", "translation": "رأی اول کمتری خواهد داشت." },
+    { "text": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.", "translation": "نمایندگان مستقیم بیشتری از حزب وارد پارلمان می‌شوند." },
+    { "text": "größer ist das Risiko, eine Koalition bilden zu müssen.", "translation": "خطر تشکیل ائتلاف بیشتر است." },
+    { "text": "mehr Sitze erhält die Partei im Parlament.", "translation": "صندلی‌های بیشتری در پارلمان دریافت می‌کند." }
+  ],
+  "correct": "mehr Sitze erhält die Partei im Parlament.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "94" } }
+{
+  "question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+  "question_translation": "از چه سنی در آلمان می‌توان در انتخابات بوندستاگ شرکت کرد؟",
+  "options": [
+    { "text": "16", "translation": "۱۶ سال" },
+    { "text": "18", "translation": "۱۸ سال" },
+    { "text": "21", "translation": "۲۱ سال" },
+    { "text": "23", "translation": "۲۳ سال" }
+  ],
+  "correct": "18",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "95" } }
+{
+  "question": "Was gilt für die meisten Kinder in Deutschland?",
+  "question_translation": "برای اکثر کودکان در آلمان چه چیزی الزامی است؟",
+  "options": [
+    { "text": "Wahlpflicht", "translation": "وظیفه رأی دادن" },
+    { "text": "Schulpflicht", "translation": "وظیفه تحصیل" },
+    { "text": "Schweigepflicht", "translation": "وظیفه سکوت" },
+    { "text": "Religionspflicht", "translation": "وظیفه دینی" }
+  ],
+  "correct": "Schulpflicht",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "96" } }
+{
+  "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+  "question_translation": "چگونه کسی که هولوکاست را انکار می‌کند می‌تواند مجازات شود؟",
+  "options": [
+    { "text": "Kürzung sozialer Leistungen", "translation": "کاهش مزایای اجتماعی" },
+    { "text": "bis zu 100 Sozialstunden", "translation": "تا ۱۰۰ ساعت خدمات اجتماعی" },
+    { "text": "gar nicht, Holocaustleugnung ist erlaubt", "translation": "هیچ مجازاتی، انکار هولوکاست مجاز است" },
+    { "text": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe", "translation": "با حبس تا پنج سال یا جریمه نقدی" }
+  ],
+  "correct": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "97" } }
+{
+  "question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+  "question_translation": "در آلمان، وقتی شاغل دائم هستید، چه چیزی را به‌طور خودکار پرداخت می‌کنید؟",
+  "options": [
+    { "text": "Sozialversicherung", "translation": "بیمه اجتماعی" },
+    { "text": "Sozialhilfe", "translation": "کمک اجتماعی" },
+    { "text": "Kindergeld", "translation": "حق کودکان" },
+    { "text": "Wohngeld", "translation": "کمک هزینه مسکن" }
+  ],
+  "correct": "Sozialversicherung",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "98" } }
+{
+  "question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …",
+  "question_translation": "اگر نمایندگان در بوندستاگ آلمان فراکسیون خود را تغییر دهند، چه اتفاقی می‌افتد؟",
+  "options": [
+    { "text": "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.", "translation": "دیگر اجازه شرکت در جلسات پارلمان را ندارند." },
+    { "text": "kann die Regierung ihre Mehrheit verlieren.", "translation": "دولت ممکن است اکثریت خود را از دست بدهد." },
+    { "text": "muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.", "translation": "رئیس‌جمهور باید پیش از آن موافقت دهد." },
+    { "text": "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen.", "translation": "مردم می‌توانند دوباره به این نمایندگان رأی دهند." }
+  ],
+  "correct": "kann die Regierung ihre Mehrheit verlieren.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "99" } }
+{
+  "question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+  "question_translation": "چه کسی بیمه‌های اجتماعی را در آلمان پرداخت می‌کند؟",
+  "options": [
+    { "text": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer", "translation": "کارفرمایان و کارکنان" },
+    { "text": "nur Arbeitnehmerinnen/Arbeitnehmer", "translation": "فقط کارکنان" },
+    { "text": "alle Staatsangehörigen", "translation": "تمام شهروندان" },
+    { "text": "nur Arbeitgeberinnen/Arbeitgeber", "translation": "فقط کارفرمایان" }
+  ],
+  "correct": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "100" } }
+{
+  "question": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+  "question_translation": "چه چیزی به بیمه اجتماعی قانونی تعلق ندارد؟",
+  "options": [
+    { "text": "die Lebensversicherung", "translation": "بیمه عمر" },
+    { "text": "die gesetzliche Rentenversicherung", "translation": "بیمه بازنشستگی قانونی" },
+    { "text": "die Arbeitslosenversicherung", "translation": "بیمه بیکاری" },
+    { "text": "die Pflegeversicherung", "translation": "بیمه مراقبت" }
+  ],
+  "correct": "die Lebensversicherung",
+  "state": "Deutschland"
+}
 
