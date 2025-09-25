@@ -1291,4 +1291,1291 @@
   "correct": "die Lebensversicherung",
   "state": "Deutschland"
 }
+{ "index": { "_id": "101" } }
+{
+  "question": "Gewerkschaften sind Interessenverbände der …",
+  "question_translation": "اتحادیه‌های کارگری انجمن‌های منافع چه گروهی هستند؟",
+  "options": [
+    { "text": "Jugendlichen", "translation": "جوانان" },
+    { "text": "Arbeitnehmerinnen und Arbeitnehmer", "translation": "کارمندان و کارکنان" },
+    { "text": "Rentnerinnen und Rentner", "translation": "بازنشستگان" },
+    { "text": "Arbeitgeberinnen und Arbeitgeber", "translation": "کارفرمایان" }
+  ],
+  "correct": "Arbeitnehmerinnen und Arbeitnehmer",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "102" } }
+{
+  "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+  "question_translation": "در جمهوری فدرال آلمان، چه چیزی برای تقدیر از کسی که در زمینه سیاسی، اقتصادی، فرهنگی، فکری یا اجتماعی دستاورد ویژه‌ای داشته باشد، اعطا می‌شود؟",
+  "options": [
+    { "text": "Bundesverdienstkreuz", "translation": "صلیب فدرال شایستگی" },
+    { "text": "Bundesadler", "translation": "عقاب فدرال" },
+    { "text": "Vaterländischen Verdienstorden", "translation": "نشان شایستگی میهن‌پرستانه" },
+    { "text": "Ehrentitel „Held der Deutschen Demokratischen Republik“", "translation": "عنوان افتخاری «قهرمان جمهوری دمکراتیک آلمان»" }
+  ],
+  "correct": "Bundesverdienstkreuz",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "103" } }
+{
+  "question": "Was wird in Deutschland als „Ampelkoalition“ bezeichnet? Die Zusammenarbeit …",
+  "question_translation": "در آلمان، «ائتلاف چراغ‌راهنمایی» به چه چیزی گفته می‌شود؟ همکاری ...",
+  "options": [
+    { "text": "der Bundestagsfraktionen von CDU und CSU", "translation": "فراکسیون‌های بوندستاگ CDU و CSU" },
+    { "text": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung", "translation": "از SPD، FDP و اتحاد ۹۰/سبزها در یک دولت" },
+    { "text": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung", "translation": "از CSU، چپ و اتحاد ۹۰/سبزها در یک دولت" },
+    { "text": "der Bundestagsfraktionen von CDU und SPD", "translation": "فراکسیون‌های بوندستاگ CDU و SPD" }
+  ],
+  "correct": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "104" } }
+{
+  "question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+  "question_translation": "یک زن در آلمان شغل خود را از دست می‌دهد. چه چیزی نباید دلیل این اخراج باشد؟",
+  "options": [
+    { "text": "Die Frau ist lange krank und arbeitsunfähig.", "translation": "زن برای مدت طولانی بیمار و ناتوان از کار است." },
+    { "text": "Die Frau kam oft zu spät zur Arbeit.", "translation": "زن اغلب دیر به محل کار می‌رسد." },
+    { "text": "Die Frau erledigt private Sachen während der Arbeitszeit.", "translation": "زن امور شخصی را در طول ساعت کاری انجام می‌دهد." },
+    { "text": "Die Frau bekommt ein Kind und ihr Chef weiß das.", "translation": "زن باردار است و رئیس او این را می‌داند." }
+  ],
+  "correct": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "105" } }
+{
+  "question": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+  "question_translation": "وظیفه‌ی کمک‌کنندگان انتخابات در آلمان چیست؟",
+  "options": [
+    { "text": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.", "translation": "آن‌ها به سالمندان در دادن رأی در کابین انتخاباتی کمک می‌کنند." },
+    { "text": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.", "translation": "آن‌ها اطلاعیه‌های انتخاباتی را قبل از انتخابات می‌نویسند." },
+    { "text": "Sie geben Zwischenergebnisse an die Medien weiter.", "translation": "آن‌ها نتایج میانی را به رسانه‌ها گزارش می‌دهند." },
+    { "text": "Sie zählen die Stimmen nach dem Ende der Wahl.", "translation": "آن‌ها آراء را پس از پایان انتخابات شمارش می‌کنند." }
+  ],
+  "correct": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "106" } }
+{
+  "question": "In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?",
+  "question_translation": "در آلمان، کمک‌کنندگان داوطلب انتخاباتی در انتخابات کمک می‌کنند. وظیفه آن‌ها چیست؟",
+  "options": [
+    { "text": "Sie helfen Kindern und alten Menschen beim Wählen.", "translation": "آن‌ها به کودکان و سالمندان در رأی دادن کمک می‌کنند." },
+    { "text": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.", "translation": "آن‌ها کارت‌ها و نامه‌هایی با محل رأی‌گیری می‌نویسند." },
+    { "text": "Sie geben Zwischenergebnisse an Journalisten weiter.", "translation": "آن‌ها نتایج میانی را به خبرنگاران گزارش می‌دهند." },
+    { "text": "Sie zählen die Stimmen nach dem Ende der Wahl.", "translation": "آن‌ها آراء را پس از پایان انتخابات شمارش می‌کنند." }
+  ],
+  "correct": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "107" } }
+{
+  "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+  "question_translation": "بوندستاگ آلمان برای چند سال انتخاب می‌شود؟",
+  "options": [
+    { "text": "2 Jahre", "translation": "۲ سال" },
+    { "text": "4 Jahre", "translation": "۴ سال" },
+    { "text": "6 Jahre", "translation": "۶ سال" },
+    { "text": "8 Jahre", "translation": "۸ سال" }
+  ],
+  "correct": "4 Jahre",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "108" } }
+{
+  "question": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …",
+  "question_translation": "در انتخابات بوندستاگ آلمان، چه کسی می‌تواند رأی دهد؟",
+  "options": [
+    { "text": "in der Bundesrepublik Deutschland wohnt und wählen möchte.", "translation": "در جمهوری فدرال آلمان ساکن است و می‌خواهد رأی دهد." },
+    { "text": "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.", "translation": "شهروند جمهوری فدرال آلمان است و حداقل ۱۸ سال سن دارد." },
+    { "text": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.", "translation": "حداقل ۳ سال در جمهوری فدرال آلمان زندگی کرده است." },
+    { "text": "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.", "translation": "شهروند جمهوری فدرال آلمان است و حداقل ۲۱ سال سن دارد." }
+  ],
+  "correct": "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "109" } }
+{
+  "question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+  "question_translation": "به طور معمول هر چند سال یک بار در آلمان انتخابات بوندستاگ برگزار می‌شود؟",
+  "options": [
+    { "text": "alle drei Jahre", "translation": "هر سه سال یک بار" },
+    { "text": "alle vier Jahre", "translation": "هر چهار سال یک بار" },
+    { "text": "alle fünf Jahre", "translation": "هر پنج سال یک بار" },
+    { "text": "alle sechs Jahre", "translation": "هر شش سال یک بار" }
+  ],
+  "correct": "alle vier Jahre",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "110" } }
+{
+  "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+  "question_translation": "بوندستاگ آلمان برای چند سال انتخاب می‌شود؟",
+  "options": [
+    { "text": "2 Jahre", "translation": "۲ سال" },
+    { "text": "3 Jahre", "translation": "۳ سال" },
+    { "text": "4 Jahre", "translation": "۴ سال" },
+    { "text": "5 Jahre", "translation": "۵ سال" }
+  ],
+  "correct": "4 Jahre",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "111" } }
+{
+  "question": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+  "question_translation": "چه اقداماتی مرتبط با کشور اسرائیل در آلمان ممنوع است؟",
+  "options": [
+    { "text": "die Politik Israels öffentlich kritisieren", "translation": "انتقاد عمومی از سیاست‌های اسرائیل" },
+    { "text": "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück", "translation": "آویزان کردن پرچم اسرائیل در ملک خصوصی" },
+    { "text": "eine Diskussion über die Politik Israels", "translation": "بحث درباره سیاست‌های اسرائیل" },
+    { "text": "der öffentliche Aufruf zur Vernichtung Israels", "translation": "فراخوان عمومی برای نابودی اسرائیل" }
+  ],
+  "correct": "der öffentliche Aufruf zur Vernichtung Israels",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "112" } }
+{
+  "question": "Die Wahlen in Deutschland sind …",
+  "question_translation": "انتخابات در آلمان چگونه است؟",
+  "options": [
+    { "text": "speziell", "translation": "خاص / ویژه" },
+    { "text": "geheim", "translation": "محرمانه" },
+    { "text": "berufsbezogen", "translation": "مربوط به حرفه" },
+    { "text": "geschlechtsabhängig", "translation": "وابسته به جنسیت" }
+  ],
+  "correct": "geheim",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "113" } }
+{
+  "question": "Wahlen in Deutschland gewinnt die Partei, die …",
+  "question_translation": "در آلمان، کدام حزب انتخابات را برنده می‌شود؟",
+  "options": [
+    { "text": "die meisten Stimmen bekommt.", "translation": "بیشترین آراء را کسب کند." },
+    { "text": "die meisten Männer mehrheitlich gewählt haben.", "translation": "بیشترین رأی مردان را داشته باشد." },
+    { "text": "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.", "translation": "بیشترین آراء را از کارگران دریافت کرده باشد." },
+    { "text": "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat.", "translation": "بیشترین رأی اول برای کاندیدای صدراعظم خود دریافت کرده باشد." }
+  ],
+  "correct": "die meisten Stimmen bekommt.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "114" } }
+{
+  "question": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+  "question_translation": "شرکت در انتخابات دموکراتیک در آلمان چه نوع حقی است؟",
+  "options": [
+    { "text": "eine Pflicht", "translation": "وظیفه" },
+    { "text": "ein Recht", "translation": "حق" },
+    { "text": "ein Zwang", "translation": "اجبار" },
+    { "text": "eine Last", "translation": "بار / مسئولیت سنگین" }
+  ],
+  "correct": "ein Recht",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "115" } }
+{
+  "question": "Was bedeutet „aktives Wahlrecht“ in Deutschland?",
+  "question_translation": "حق رأی فعال در آلمان چه معنی دارد؟",
+  "options": [
+    { "text": "Man kann gewählt werden.", "translation": "می‌توان انتخاب شد." },
+    { "text": "Man muss wählen gehen.", "translation": "باید رأی داد." },
+    { "text": "Man kann wählen.", "translation": "می‌توان رأی داد." },
+    { "text": "Man muss zur Auszählung der Stimmen gehen.", "translation": "باید در شمارش آراء شرکت کرد." }
+  ],
+  "correct": "Man kann wählen.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "116" } }
+{
+  "question": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+  "question_translation": "اگر در انتخابات بوندستاگ آلمان می‌توانید رأی دهید، به چه معناست؟",
+  "options": [
+    { "text": "aktive Wahlkampagne", "translation": "کمپین انتخاباتی فعال" },
+    { "text": "aktives Wahlverfahren", "translation": "فرآیند انتخاباتی فعال" },
+    { "text": "aktiver Wahlkampf", "translation": "مبارزۀ انتخاباتی فعال" },
+    { "text": "aktives Wahlrecht", "translation": "حق رأی فعال" }
+  ],
+  "correct": "aktives Wahlrecht",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "117" } }
+{
+  "question": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+  "question_translation": "یک حزب برای ورود به بوندستاگ آلمان حداقل چند درصد از آراء دوم را باید کسب کند؟",
+  "options": [
+    { "text": "3%", "translation": "۳٪" },
+    { "text": "4%", "translation": "۴٪" },
+    { "text": "5%", "translation": "۵٪" },
+    { "text": "6%", "translation": "۶٪" }
+  ],
+  "correct": "5%",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "118" } }
+{
+  "question": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+  "question_translation": "چه کسانی می‌توانند عضو حدود ۴۰ باشگاه ورزشی یهودی ماکابی شوند؟",
+  "options": [
+    { "text": "nur Deutsche", "translation": "فقط آلمانی‌ها" },
+    { "text": "nur Israelis", "translation": "فقط اسرائیلی‌ها" },
+    { "text": "nur religiöse Menschen", "translation": "فقط افراد مذهبی" },
+    { "text": "alle Menschen", "translation": "همه افراد" }
+  ],
+  "correct": "alle Menschen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "119" } }
+{
+  "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+  "question_translation": "انتخابات در آلمان آزاد است. این به چه معناست؟",
+  "options": [
+    { "text": "Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.", "translation": "تمام مجرمان محکوم اجازه رأی دادن ندارند." },
+    { "text": "Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.", "translation": "اگر می‌خواهم رأی دهم، کارفرمایم باید اجازه دهد." },
+    { "text": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.", "translation": "هر فرد می‌تواند بدون اجبار تصمیم بگیرد که آیا رأی دهد و به چه کسی رأی دهد." },
+    { "text": "Ich kann frei entscheiden, wo ich wählen gehen möchte.", "translation": "می‌توانم آزادانه تصمیم بگیرم کجا رأی دهم." }
+  ],
+  "correct": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "120" } }
+{
+  "question": "Das Wahlsystem in Deutschland ist ein …",
+  "question_translation": "سیستم انتخاباتی در آلمان چیست؟",
+  "options": [
+    { "text": "Zensuswahlrecht", "translation": "حق رأی بر اساس دارایی" },
+    { "text": "Dreiklassenwahlrecht", "translation": "حق رأی سه‌کلاسه" },
+    { "text": "Mehrheits- und Verhältniswahlrecht", "translation": "حق رأی اکثریت و تناسبی" },
+    { "text": "allgemeines Männerwahlrecht", "translation": "حق رأی عمومی مردان" }
+  ],
+  "correct": "Mehrheits- und Verhältniswahlrecht",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "121" } }
+{
+  "question": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+  "question_translation": "یک حزب می‌خواهد وارد بوندستاگ آلمان شود. اما باید حداقل سهمی از آراء را داشته باشد. به چه معناست؟",
+  "options": [
+    { "text": "5%-Hürde", "translation": "حداقل ۵٪ آراء" },
+    { "text": "Zulassungsgrenze", "translation": "حد مجاز" },
+    { "text": "Basiswert", "translation": "مقدار پایه" },
+    { "text": "Richtlinie", "translation": "دستورالعمل" }
+  ],
+  "correct": "5%-Hürde",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "122" } }
+{
+  "question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+  "question_translation": "انتخابات در آلمان بر اساس چه اصلی برگزار می‌شود؟ انتخابات در آلمان چگونه است؟",
+  "options": [
+    { "text": "frei, gleich, geheim", "translation": "آزاد، برابر، محرمانه" },
+    { "text": "offen, sicher, frei", "translation": "آشکار، ایمن، آزاد" },
+    { "text": "geschlossen, gleich, sicher", "translation": "بسته، برابر، ایمن" },
+    { "text": "sicher, offen, freiwillig", "translation": "ایمن، آشکار، داوطلبانه" }
+  ],
+  "correct": "frei, gleich, geheim",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "124" } }
+{
+  "question": "Die Bundestagswahl in Deutschland ist die Wahl …",
+  "question_translation": "انتخابات بوندستاگ در آلمان انتخاب چه چیزی است؟",
+  "options": [
+    { "text": "der Bundeskanzlerin/des Bundeskanzlers", "translation": "صدراعظم" },
+    { "text": "der Parlamente der Länder", "translation": "پارلمان‌های ایالتی" },
+    { "text": "des Parlaments für Deutschland", "translation": "پارلمان برای آلمان" },
+    { "text": "der Bundespräsidentin/des Bundespräsidenten", "translation": "رئیس‌جمهور فدرال" }
+  ],
+  "correct": "des Parlaments für Deutschland",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "125" } }
+{
+  "question": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+  "question_translation": "در یک دموکراسی، یکی از وظایف انتخابات منظم چیست؟",
+  "options": [
+    { "text": "die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.", "translation": "اجبار شهروندان به رأی دادن." },
+    { "text": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.", "translation": "امکان تغییر دولت بر اساس اراده اکثریت رأی‌دهندگان." },
+    { "text": "im Land bestehende Gesetze beizubehalten.", "translation": "حفظ قوانین موجود در کشور." },
+    { "text": "den Armen mehr Macht zu geben.", "translation": "دادن قدرت بیشتر به فقرا." }
+  ],
+  "correct": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "126" } }
+{
+  "question": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+  "question_translation": "شهروندان واجد شرایط رأی‌گیری در آلمان قبل از انتخابات چه چیزی دریافت می‌کنند؟",
+  "options": [
+    { "text": "eine Wahlbenachrichtigung von der Gemeinde", "translation": "اطلاعیه انتخاباتی از شهرداری" },
+    { "text": "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten", "translation": "مجوز رأی‌گیری از رئیس‌جمهور فدرال" },
+    { "text": "eine Benachrichtigung von der Bundesversammlung", "translation": "اطلاعیه از مجمع فدرال" },
+    { "text": "eine Benachrichtigung vom Pfarramt", "translation": "اطلاعیه از دفتر کلیسا" }
+  ],
+  "correct": "eine Wahlbenachrichtigung von der Gemeinde",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "127" } }
+{
+  "question": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+  "question_translation": "چرا حداقل ۵٪ در قانون انتخابات جمهوری فدرال آلمان وجود دارد؟ وجود دارد زیرا …",
+  "options": [
+    { "text": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.", "translation": "برنامه‌های بسیاری از احزاب کوچک شباهت‌های زیادی دارند." },
+    { "text": "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.", "translation": "شهروندان ممکن است در میان بسیاری از احزاب کوچک جهت‌گیری خود را گم کنند." },
+    { "text": "viele kleine Parteien die Regierungsbildung erschweren.", "translation": "بسیاری از احزاب کوچک تشکیل دولت را دشوار می‌کنند." },
+    { "text": "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen.", "translation": "احزاب کوچک پول کافی برای پرداخت به سیاستمداران ندارند." }
+  ],
+  "correct": "viele kleine Parteien die Regierungsbildung erschweren.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "128" } }
+{
+  "question": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
+  "question_translation": "اعضای پارلمانی که توسط شهروندان انتخاب می‌شوند، چه نامیده می‌شوند؟",
+  "options": [
+    { "text": "Abgeordnete", "translation": "نمایندگان" },
+    { "text": "Kanzlerinnen/Kanzler", "translation": "صدراعظم‌ها" },
+    { "text": "Botschafterinnen/Botschafter", "translation": "سفیران" },
+    { "text": "Ministerpräsidentinnen/Ministerpräsidenten", "translation": "رئیس‌وزیران ایالتی" }
+  ],
+  "correct": "Abgeordnete",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "129" } }
+{
+  "question": "Vom Volk gewählt wird in Deutschland …",
+  "question_translation": "چه کسی در آلمان توسط مردم انتخاب می‌شود؟",
+  "options": [
+    { "text": "die Bundeskanzlerin/der Bundeskanzler", "translation": "صدراعظم" },
+    { "text": "die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes", "translation": "رئیس‌وزیر ایالتی" },
+    { "text": "der Bundestag", "translation": "بوندستاگ" },
+    { "text": "die Bundespräsidentin/der Bundespräsident", "translation": "رئیس‌جمهور فدرال" }
+  ],
+  "correct": "der Bundestag",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "130" } }
+{
+  "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig? In Anlehnung an Bundeswahlordnung (BWO), Anlage 26",
+  "question_translation": "کدام برگه رأی در انتخابات بوندستاگ معتبر است؟ مطابق با دستورالعمل انتخابات فدرال (BWO)، پیوست ۲۶",
+  "options": [
+    { "text": "1", "translation": "۱" },
+    { "text": "2", "translation": "۲" },
+    { "text": "3", "translation": "۳" },
+    { "text": "4", "translation": "۴" }
+  ],
+  "correct": "1",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "131" } }
+{
+  "question": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
+  "question_translation": "در آلمان، شهردار چیست؟",
+  "options": [
+    { "text": "die Leiterin/der Leiter einer Schule", "translation": "مدیر یک مدرسه" },
+    { "text": "die Chefin/der Chef einer Bank", "translation": "رئیس یک بانک" },
+    { "text": "das Oberhaupt einer Gemeinde", "translation": "رئیس یک شهرداری / جامعه محلی" },
+    { "text": "die/der Vorsitzende einer Partei", "translation": "رئیس یک حزب" }
+  ],
+  "correct": "das Oberhaupt einer Gemeinde",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "132" } }
+{
+  "question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+  "question_translation": "بسیاری از مردم در آلمان به صورت داوطلبانه در اوقات فراغت کار می‌کنند. این به چه معناست؟",
+  "options": [
+    { "text": "Sie arbeiten als Soldatinnen/Soldaten", "translation": "آن‌ها به عنوان سرباز کار می‌کنند." },
+    { "text": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden", "translation": "آن‌ها داوطلبانه و بدون حقوق در انجمن‌ها و اتحادیه‌ها کار می‌کنند." },
+    { "text": "Sie arbeiten in der Bundesregierung", "translation": "آن‌ها در دولت فدرال کار می‌کنند." },
+    { "text": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld", "translation": "آن‌ها در بیمارستان کار می‌کنند و درآمد دریافت می‌کنند." }
+  ],
+  "correct": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "133" } }
+{
+  "question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+  "question_translation": "در انتخابات بوندستاگ و لاندتاگ در آلمان چه چیزی مجاز است؟",
+  "options": [
+    { "text": "Der Ehemann wählt für seine Frau mit.", "translation": "شوهر به جای همسرش رأی می‌دهد." },
+    { "text": "Man kann durch Briefwahl seine Stimme abgeben.", "translation": "می‌توان از طریق رأی پستی رأی داد." },
+    { "text": "Man kann am Wahltag telefonisch seine Stimme abgeben.", "translation": "می‌توان در روز انتخابات به‌صورت تلفنی رأی داد." },
+    { "text": "Kinder ab dem Alter von 14 Jahren dürfen wählen.", "translation": "کودکان از سن ۱۴ سال می‌توانند رأی دهند." }
+  ],
+  "correct": "Man kann durch Briefwahl seine Stimme abgeben.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "134" } }
+{
+  "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+  "question_translation": "می‌خواهند خط اتوبوسی را که همیشه با آن به سر کار می‌روید حذف کنند. برای حفظ خط اتوبوس چه کاری می‌توانید انجام دهید؟",
+  "options": [
+    { "text": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.", "translation": "در یک ابتکار شهروندی برای حفظ خط اتوبوس شرکت می‌کنم یا خودم ابتکار جدیدی راه‌اندازی می‌کنم." },
+    { "text": "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.", "translation": "عضو یک باشگاه ورزشی می‌شوم و دوچرخه‌سواری تمرین می‌کنم." },
+    { "text": "Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.", "translation": "به اداره مالیات مراجعه می‌کنم، چون به عنوان مالیات‌دهنده حق استفاده از خط اتوبوس دارم." },
+    { "text": "Ich schreibe einen Brief an das Forstamt der Gemeinde.", "translation": "یک نامه به اداره جنگل‌داری شهرداری می‌نویسم." }
+  ],
+  "correct": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "135" } }
+{
+  "question": "Wen vertreten die Gewerkschaften in Deutschland?",
+  "question_translation": "اتحادیه‌های کارگری در آلمان نماینده چه کسانی هستند؟",
+  "options": [
+    { "text": "große Unternehmen", "translation": "شرکت‌های بزرگ" },
+    { "text": "kleine Unternehmen", "translation": "شرکت‌های کوچک" },
+    { "text": "Selbstständige", "translation": "خوداشتغال‌ها" },
+    { "text": "Arbeitnehmerinnen und Arbeitnehmer", "translation": "کارکنان و کارگران" }
+  ],
+  "correct": "Arbeitnehmerinnen und Arbeitnehmer",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "136" } }
+{
+  "question": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+  "question_translation": "در چه مواقعی در آلمان باید به دادگاه کار مراجعه کنید؟",
+  "options": [
+    { "text": "falscher Nebenkostenabrechnung.", "translation": "صورتحساب اشتباه هزینه‌های جانبی." },
+    { "text": "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.", "translation": "اخراج ناعادلانه توسط رئیس شما." },
+    { "text": "Problemen mit den Nachbarinnen/Nachbarn.", "translation": "مشکلات با همسایه‌ها." },
+    { "text": "Schwierigkeiten nach einem Verkehrsunfall.", "translation": "مشکلات پس از یک تصادف رانندگی." }
+  ],
+  "correct": "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "137" } }
+{
+  "question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+  "question_translation": "کدام دادگاه در آلمان برای اختلافات در محیط کار مسئول است؟",
+  "options": [
+    { "text": "das Familiengericht", "translation": "دادگاه خانواده" },
+    { "text": "das Strafgericht", "translation": "دادگاه کیفری" },
+    { "text": "das Arbeitsgericht", "translation": "دادگاه کار" },
+    { "text": "das Amtsgericht", "translation": "دادگاه ناحیه‌ای" }
+  ],
+  "correct": "das Arbeitsgericht",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "138" } }
+{
+  "question": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+  "question_translation": "اگر کارفرمای من در آلمان به ناحق من را اخراج کند، چه کاری می‌توانم انجام دهم؟",
+  "options": [
+    { "text": "weiterarbeiten und freundlich zur Chefin/zum Chef sein", "translation": "به کار ادامه دهم و با رئیس رفتار دوستانه داشته باشم." },
+    { "text": "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen", "translation": "یک فرایند اخطاری علیه کارفرما آغاز کنم." },
+    { "text": "Kündigungsschutzklage erheben", "translation": "دادخواست حمایت در برابر اخراج بدهم." },
+    { "text": "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen", "translation": "کارفرما را به پلیس گزارش دهم." }
+  ],
+  "correct": "Kündigungsschutzklage erheben",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "139" } }
+{
+  "question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+  "question_translation": "چه زمانی در آلمان یک پرونده به دادگاه کشیده می‌شود؟ وقتی کسی …",
+  "options": [
+    { "text": "zu einer anderen Religion übertritt.", "translation": "به دین دیگری تغییر کند." },
+    { "text": "eine Straftat begangen hat und angeklagt wird.", "translation": "مرتکب جرمی شده باشد و متهم شود." },
+    { "text": "eine andere Meinung als die der Regierung vertritt.", "translation": "نظری مخالف با دولت داشته باشد." },
+    { "text": "sein Auto falsch geparkt hat und es abgeschleppt wird.", "translation": "ماشینش را اشتباه پارک کرده و آن را یدک‌کش ببرند." }
+  ],
+  "correct": "eine Straftat begangen hat und angeklagt wird.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "140" } }
+{
+  "question": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …",
+  "question_translation": "یک شوفر (قاضی غیرحرفه‌ای/هیئت منصفه) در آلمان چه کاری انجام می‌دهد؟",
+  "options": [
+    { "text": "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.", "translation": "همراه با قضات درباره گناهکار بودن و مجازات تصمیم می‌گیرد." },
+    { "text": "gibt Bürgerinnen/Bürgern rechtlichen Rat.", "translation": "به شهروندان مشاوره حقوقی می‌دهد." },
+    { "text": "stellt Urkunden aus.", "translation": "اسناد صادر می‌کند." },
+    { "text": "verteidigt die Angeklagte/den Angeklagten.", "translation": "از متهم دفاع می‌کند." }
+  ],
+  "correct": "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "141" } }
+{
+  "question": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+  "question_translation": "چه کسی در آلمان افراد را در مسائل حقوقی مشاوره می‌دهد و در دادگاه نمایندگی می‌کند؟",
+  "options": [
+    { "text": "eine Rechtsanwältin/ein Rechtsanwalt", "translation": "یک وکیل" },
+    { "text": "eine Richterin/ein Richter", "translation": "یک قاضی" },
+    { "text": "eine Schöffin/ein Schöffe", "translation": "یک شوفر (قاضی غیرحرفه‌ای)" },
+    { "text": "eine Staatsanwältin/ein Staatsanwalt", "translation": "یک دادستان" }
+  ],
+  "correct": "eine Rechtsanwältin/ein Rechtsanwalt",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "142" } }
+{
+  "question": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
+  "question_translation": "وظیفه اصلی یک قاضی در آلمان چیست؟",
+  "options": [
+    { "text": "vertritt Bürgerinnen und Bürger vor einem Gericht.", "translation": "از شهروندان در دادگاه نمایندگی می‌کند." },
+    { "text": "arbeitet an einem Gericht und spricht Urteile.", "translation": "در دادگاه کار می‌کند و حکم صادر می‌کند." },
+    { "text": "ändert Gesetze.", "translation": "قوانین را تغییر می‌دهد." },
+    { "text": "betreut Jugendliche vor Gericht.", "translation": "از نوجوانان در دادگاه مراقبت می‌کند." }
+  ],
+  "correct": "arbeitet an einem Gericht und spricht Urteile.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "143" } }
+{
+  "question": "Eine Richterin/ein Richter in Deutschland gehört zur …",
+  "question_translation": "یک قاضی در آلمان به کدام بخش حکومت تعلق دارد؟",
+  "options": [
+    { "text": "Judikative.", "translation": "قوه قضاییه." },
+    { "text": "Exekutive.", "translation": "قوه مجریه." },
+    { "text": "Operative.", "translation": "عملیاتی." },
+    { "text": "Legislative.", "translation": "قوه مقننه." }
+  ],
+  "correct": "Judikative.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "144" } }
+{
+  "question": "Eine Richterin/ein Richter gehört in Deutschland zur …",
+  "question_translation": "یک قاضی در آلمان به کدام قوه تعلق دارد؟",
+  "options": [
+    { "text": "vollziehenden Gewalt.", "translation": "قوه مجریه." },
+    { "text": "rechtsprechenden Gewalt.", "translation": "قوه قضاییه." },
+    { "text": "planenden Gewalt.", "translation": "قوه برنامه‌ریز." },
+    { "text": "gesetzgebenden Gewalt.", "translation": "قوه مقننه." }
+  ],
+  "correct": "rechtsprechenden Gewalt.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "145" } }
+{
+  "question": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …",
+  "question_translation": "در آلمان قدرت حکومتی تقسیم شده است. یک قاضی برای کدام قوه کار می‌کند؟",
+  "options": [
+    { "text": "Judikative", "translation": "قوه قضاییه" },
+    { "text": "Exekutive", "translation": "قوه مجریه" },
+    { "text": "Presse", "translation": "رسانه‌ها" },
+    { "text": "Legislative", "translation": "قوه مقننه" }
+  ],
+  "correct": "Judikative",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "146" } }
+{
+  "question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+  "question_translation": "در آلمان یک پرونده یا روند قضایی در دادگاه را چه می‌نامند؟",
+  "options": [
+    { "text": "Programm", "translation": "برنامه" },
+    { "text": "Prozedur", "translation": "رویه" },
+    { "text": "Protokoll", "translation": "صورتجلسه" },
+    { "text": "Prozess", "translation": "دادگاه/پرونده قضایی" }
+  ],
+  "correct": "Prozess",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "147" } }
+{
+  "question": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+  "question_translation": "وظیفه یک قاضی در آلمان چیست؟",
+  "options": [
+    { "text": "Deutschland regieren", "translation": "حکومت بر آلمان" },
+    { "text": "Recht sprechen", "translation": "قضاوت کردن" },
+    { "text": "Pläne erstellen", "translation": "طرح‌ریزی برنامه‌ها" },
+    { "text": "Gesetze erlassen", "translation": "تصویب قوانین" }
+  ],
+  "correct": "Recht sprechen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "148" } }
+{
+  "question": "Was ist eine Aufgabe der Polizei in Deutschland?",
+  "question_translation": "وظیفه پلیس در آلمان چیست؟",
+  "options": [
+    { "text": "das Land zu verteidigen", "translation": "دفاع از کشور" },
+    { "text": "die Bürgerinnen und Bürger abzuhören", "translation": "استراق سمع از شهروندان" },
+    { "text": "die Gesetze zu beschließen", "translation": "تصویب قوانین" },
+    { "text": "die Einhaltung von Gesetzen zu überwachen", "translation": "نظارت بر رعایت قوانین" }
+  ],
+  "correct": "die Einhaltung von Gesetzen zu überwachen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "149" } }
+{
+  "question": "Was ist ein Beispiel für antisemitisches Verhalten?",
+  "question_translation": "یک نمونه از رفتار ضد یهودی چیست؟",
+  "options": [
+    { "text": "ein jüdisches Fest besuchen", "translation": "شرکت در یک جشن یهودی" },
+    { "text": "die israelische Regierung kritisieren", "translation": "انتقاد از دولت اسرائیل" },
+    { "text": "den Holocaust leugnen", "translation": "انکار هولوکاست" },
+    { "text": "gegen Juden Fußball spielen.", "translation": "بازی فوتبال علیه یهودیان" }
+  ],
+  "correct": "den Holocaust leugnen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "150" } }
+{
+  "question": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …",
+  "question_translation": "یک شوفر (قاضی غیرحرفه‌ای) در آلمان کیست؟",
+  "options": [
+    { "text": "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.", "translation": "معاون رئیس شهر" },
+    { "text": "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.", "translation": "یک قاضی افتخاری/غیرحرفه‌ای" },
+    { "text": "ein Mitglied eines Gemeinderats.", "translation": "عضو شورای شهر" },
+    { "text": "eine Person, die Jura studiert hat.", "translation": "شخصی که حقوق خوانده است" }
+  ],
+  "correct": "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "151" } }
+{
+  "question": "Wer baute die Mauer in Berlin?",
+  "question_translation": "چه کسی دیوار برلین را ساخت؟",
+  "options": [
+    { "text": "Großbritannien", "translation": "انگلستان" },
+    { "text": "die DDR", "translation": "آلمان شرقی (جمهوری دمکراتیک آلمان)" },
+    { "text": "die Bundesrepublik Deutschland", "translation": "آلمان غربی" },
+    { "text": "die USA", "translation": "ایالات متحده آمریکا" }
+  ],
+  "correct": "die DDR",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "152" } }
+{
+  "question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+  "question_translation": "نازی‌ها به رهبری آدولف هیتلر در چه سال‌هایی در آلمان به قدرت رسیدند؟",
+  "options": [
+    { "text": "1918 bis 1923", "translation": "۱۹۱۸ تا ۱۹۲۳" },
+    { "text": "1932 bis 1950", "translation": "۱۹۳۲ تا ۱۹۵۰" },
+    { "text": "1933 bis 1945", "translation": "۱۹۳۳ تا ۱۹۴۵" },
+    { "text": "1945 bis 1989", "translation": "۱۹۴۵ تا ۱۹۸۹" }
+  ],
+  "correct": "1933 bis 1945",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "153" } }
+{
+  "question": "Was war am 8. Mai 1945?",
+  "question_translation": "۸ مه ۱۹۴۵ چه اتفاقی افتاد؟",
+  "options": [
+    { "text": "Tod Adolf Hitlers", "translation": "مرگ آدولف هیتلر" },
+    { "text": "Beginn des Berliner Mauerbaus", "translation": "آغاز ساخت دیوار برلین" },
+    { "text": "Wahl von Konrad Adenauer zum Bundeskanzler", "translation": "انتخاب کنراد آدناور به عنوان صدر اعظم" },
+    { "text": "Ende des Zweiten Weltkriegs in Europa", "translation": "پایان جنگ جهانی دوم در اروپا" }
+  ],
+  "correct": "Ende des Zweiten Weltkriegs in Europa",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "154" } }
+{
+  "question": "Wann war der Zweite Weltkrieg zu Ende?",
+  "question_translation": "جنگ جهانی دوم چه زمانی به پایان رسید؟",
+  "options": [
+    { "text": "1933", "translation": "۱۹۳۳" },
+    { "text": "1945", "translation": "۱۹۴۵" },
+    { "text": "1949", "translation": "۱۹۴۹" },
+    { "text": "1961", "translation": "۱۹۶۱" }
+  ],
+  "correct": "1945",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "155" } }
+{
+  "question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+  "question_translation": "نازی‌ها در چه سال‌هایی در آلمان به قدرت رسیدند؟",
+  "options": [
+    { "text": "1888 bis 1918", "translation": "۱۸۸۸ تا ۱۹۱۸" },
+    { "text": "1921 bis 1934", "translation": "۱۹۲۱ تا ۱۹۳۴" },
+    { "text": "1933 bis 1945", "translation": "۱۹۳۳ تا ۱۹۴۵" },
+    { "text": "1949 bis 1963", "translation": "۱۹۴۹ تا ۱۹۶۳" }
+  ],
+  "correct": "1933 bis 1945",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "156" } }
+{
+  "question": "In welchem Jahr wurde Hitler Reichskanzler?",
+  "question_translation": "هیتلر در چه سالی صدراعظم آلمان شد؟",
+  "options": [
+    { "text": "1923", "translation": "۱۹۲۳" },
+    { "text": "1927", "translation": "۱۹۲۷" },
+    { "text": "1933", "translation": "۱۹۳۳" },
+    { "text": "1936", "translation": "۱۹۳۶" }
+  ],
+  "correct": "1933",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "157" } }
+{
+  "question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+  "question_translation": "نازی‌ها به رهبری آدولف هیتلر در سال ۱۹۳۳ در آلمان چه حکومتی برپا کردند؟",
+  "options": [
+    { "text": "eine Diktatur.", "translation": "یک دیکتاتوری." },
+    { "text": "einen demokratischen Staat.", "translation": "یک دولت دموکراتیک." },
+    { "text": "eine Monarchie.", "translation": "یک سلطنت." },
+    { "text": "ein Fürstentum.", "translation": "یک شاهزاده‌نشین." }
+  ],
+  "correct": "eine Diktatur.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "158" } }
+{
+  "question": "Das „Dritte Reich“ war eine …",
+  "question_translation": "«رایش سوم» چه نوع حکومتی بود؟",
+  "options": [
+    { "text": "Diktatur.", "translation": "یک دیکتاتوری." },
+    { "text": "Demokratie.", "translation": "یک دموکراسی." },
+    { "text": "Monarchie.", "translation": "یک سلطنت." },
+    { "text": "Räterepublik.", "translation": "جمهوری شورایی." }
+  ],
+  "correct": "Diktatur.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "159" } }
+{
+  "question": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+  "question_translation": "در دوره نازی‌ها در آلمان چه چیزی وجود نداشت؟",
+  "options": [
+    { "text": "freie Wahlen", "translation": "انتخابات آزاد" },
+    { "text": "Pressezensur", "translation": "سانسور مطبوعات" },
+    { "text": "willkürliche Verhaftungen", "translation": "دستگیری‌های خودسرانه" },
+    { "text": "Verfolgung von Juden", "translation": "تعقیب یهودیان" }
+  ],
+  "correct": "freie Wahlen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "160" } }
+{
+  "question": "Welcher Krieg dauerte von 1939 bis 1945?",
+  "question_translation": "کدام جنگ از سال ۱۹۳۹ تا ۱۹۴۵ طول کشید؟",
+  "options": [
+    { "text": "der Erste Weltkrieg", "translation": "جنگ جهانی اول" },
+    { "text": "der Zweite Weltkrieg", "translation": "جنگ جهانی دوم" },
+    { "text": "der Vietnamkrieg", "translation": "جنگ ویتنام" },
+    { "text": "der Golfkrieg", "translation": "جنگ خلیج فارس" }
+  ],
+  "correct": "der Zweite Weltkrieg",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "161" } }
+{
+  "question": "Was kennzeichnete den NS-Staat? Eine Politik …",
+  "question_translation": "ویژگی دولت نازی چه بود؟ سیاستی …",
+  "options": [
+    { "text": "des staatlichen Rassismus", "translation": "نژادپرستی دولتی" },
+    { "text": "der Meinungsfreiheit", "translation": "آزادی بیان" },
+    { "text": "der allgemeinen Religionsfreiheit", "translation": "آزادی مذهبی عمومی" },
+    { "text": "der Entwicklung der Demokratie", "translation": "توسعه دموکراسی" }
+  ],
+  "correct": "des staatlichen Rassismus",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "162" } }
+{
+  "question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+  "question_translation": "کلائوس شِنک گراف فون اشتاوفنبرگ چگونه مشهور شد؟",
+  "options": [
+    { "text": "eine Goldmedaille bei den Olympischen Spielen 1936.", "translation": "مدال طلا در بازی‌های المپیک ۱۹۳۶" },
+    { "text": "den Bau des Reichstagsgebäudes.", "translation": "ساخت ساختمان رایشستاگ" },
+    { "text": "den Aufbau der Wehrmacht.", "translation": "ساخت ارتش آلمان (ورماخت)" },
+    { "text": "das Attentat auf Hitler am 20. Juli 1944.", "translation": "ترور هیتلر در ۲۰ ژوئیه ۱۹۴۴" }
+  ],
+  "correct": "das Attentat auf Hitler am 20. Juli 1944.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "163" } }
+{
+  "question": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+  "question_translation": "نازی‌ها در چه سالی کنیسه‌ها و فروشگاه‌های یهودیان را در آلمان تخریب کردند؟",
+  "options": [
+    { "text": "1925", "translation": "۱۹۲۵" },
+    { "text": "1930", "translation": "۱۹۳۰" },
+    { "text": "1938", "translation": "۱۹۳۸" },
+    { "text": "1945", "translation": "۱۹۴۵" }
+  ],
+  "correct": "1938",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "164" } }
+{
+  "question": "Was passierte am 9. November 1938 in Deutschland?",
+  "question_translation": "در ۹ نوامبر ۱۹۳۸ در آلمان چه اتفاقی افتاد؟",
+  "options": [
+    { "text": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.", "translation": "با حمله به لهستان، جنگ جهانی دوم آغاز شد." },
+    { "text": "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.", "translation": "نازی‌ها یک انتخابات را باختند و رایشستاگ را منحل کردند." },
+    { "text": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.", "translation": "فروشگاه‌ها و کنیسه‌های یهودیان توسط نازی‌ها و طرفدارانشان تخریب شدند." },
+    { "text": "Hitler wird Reichspräsident und lässt alle Parteien verbieten.", "translation": "هیتلر رئیس‌جمهور رایش شد و همه احزاب را ممنوع کرد." }
+  ],
+  "correct": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "165" } }
+{
+  "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+  "question_translation": "نخست‌وزیر اول جمهوری فدرال آلمان چه کسی بود؟",
+  "options": [
+    { "text": "Konrad Adenauer", "translation": "کنراد آدناور" },
+    { "text": "Kurt Georg Kiesinger", "translation": "کورت گئورگ کیزینگر" },
+    { "text": "Helmut Schmidt", "translation": "هلموت شمیدت" },
+    { "text": "Willy Brandt", "translation": "ویلی برانت" }
+  ],
+  "correct": "Konrad Adenauer",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "166" } }
+{
+  "question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?",
+  "question_translation": "در کدام تظاهرات در آلمان مردم شعار «ما مردم هستیم» سر دادند؟",
+  "options": [
+    { "text": "beim Arbeiteraufstand 1953 in der DDR", "translation": "در قیام کارگری ۱۹۵۳ در آلمان شرقی" },
+    { "text": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland", "translation": "در تظاهرات ۱۹۶۸ در جمهوری فدرال آلمان" },
+    { "text": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland", "translation": "در تظاهرات ضد انرژی هسته‌ای ۱۹۸۵ در جمهوری فدرال آلمان" },
+    { "text": "bei den Montagsdemonstrationen 1989 in der DDR", "translation": "در تظاهرات دوشنبه‌ها ۱۹۸۹ در آلمان شرقی" }
+  ],
+  "correct": "bei den Montagsdemonstrationen 1989 in der DDR",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "167" } }
+{
+  "question": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?",
+  "question_translation": "بعد از جنگ جهانی دوم، کدام کشورها در آلمان به عنوان «قدرت‌های اشغالگر متحد» شناخته شدند؟",
+  "options": [
+    { "text": "Sowjetunion, Großbritannien, Polen, Schweden", "translation": "اتحاد جماهیر شوروی، بریتانیا، لهستان، سوئد" },
+    { "text": "Frankreich, Sowjetunion, Italien, Japan", "translation": "فرانسه، اتحاد جماهیر شوروی، ایتالیا، ژاپن" },
+    { "text": "USA, Sowjetunion, Spanien, Portugal", "translation": "آمریکا، اتحاد جماهیر شوروی، اسپانیا، پرتغال" },
+    { "text": "USA, Sowjetunion, Großbritannien, Frankreich", "translation": "آمریکا، اتحاد جماهیر شوروی، بریتانیا، فرانسه" }
+  ],
+  "correct": "USA, Sowjetunion, Großbritannien, Frankreich",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "168" } }
+{
+  "question": "Welches Land war keine „Alliierte Besatzungsmacht“ in Deutschland?",
+  "question_translation": "کدام کشور یکی از «قدرت‌های اشغالگر متحد» در آلمان نبود؟",
+  "options": [
+    { "text": "USA", "translation": "آمریکا" },
+    { "text": "Sowjetunion", "translation": "اتحاد جماهیر شوروی" },
+    { "text": "Frankreich", "translation": "فرانسه" },
+    { "text": "Japan", "translation": "ژاپن" }
+  ],
+  "correct": "Japan",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "169" } }
+{
+  "question": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+  "question_translation": "جمهوری فدرال آلمان چه زمانی تأسیس شد؟",
+  "options": [
+    { "text": "1939", "translation": "۱۹۳۹" },
+    { "text": "1945", "translation": "۱۹۴۵" },
+    { "text": "1949", "translation": "۱۹۴۹" },
+    { "text": "1951", "translation": "۱۹۵۱" }
+  ],
+  "correct": "1949",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "170" } }
+{
+  "question": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+  "question_translation": "در دوره نازی‌ها در آلمان چه چیزی وجود داشت؟",
+  "options": [
+    { "text": "das Verbot von Parteien", "translation": "ممنوعیت احزاب" },
+    { "text": "das Recht zur freien Entfaltung der Persönlichkeit", "translation": "حق توسعه آزاد شخصیت" },
+    { "text": "Pressefreiheit", "translation": "آزادی مطبوعات" },
+    { "text": "den Schutz der Menschenwürde", "translation": "حمایت از کرامت انسانی" }
+  ],
+  "correct": "das Verbot von Parteien",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "171" } }
+{
+  "question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+  "question_translation": "اقتصاد اجتماعی بازار به چه معناست؟",
+  "options": [
+    { "text": "steuert sich allein nach Angebot und Nachfrage.", "translation": "به تنهایی بر اساس عرضه و تقاضا هدایت می‌شود." },
+    { "text": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.", "translation": "توسط دولت برنامه‌ریزی و هدایت می‌شود و عرضه و تقاضا مدنظر نیست." },
+    { "text": "richtet sich nach der Nachfrage im Ausland.", "translation": "بر اساس تقاضای خارجی هدایت می‌شود." },
+    { "text": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.", "translation": "بر اساس عرضه و تقاضا هدایت می‌شود، اما دولت برای توازن اجتماعی مراقبت می‌کند." }
+  ],
+  "correct": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "172" } }
+{
+  "question": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+  "question_translation": "جمهوری دموکراتیک آلمان (آلمان شرقی) در کدام منطقه اشغالی تأسیس شد؟",
+  "options": [
+    { "text": "amerikanischen Besatzungszone", "translation": "منطقه اشغالی آمریکا" },
+    { "text": "französischen Besatzungszone", "translation": "منطقه اشغالی فرانسه" },
+    { "text": "britischen Besatzungszone", "translation": "منطقه اشغالی بریتانیا" },
+    { "text": "sowjetischen Besatzungszone", "translation": "منطقه اشغالی شوروی" }
+  ],
+  "correct": "sowjetischen Besatzungszone",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "173" } }
+{
+  "question": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+  "question_translation": "جمهوری فدرال آلمان عضو مؤسس کدام سازمان است؟",
+  "options": [
+    { "text": "des Nordatlantikpakts (NATO).", "translation": "پیمان آتلانتیک شمالی (ناتو)." },
+    { "text": "der Vereinten Nationen (VN).", "translation": "سازمان ملل متحد (UN)." },
+    { "text": "der Europäischen Union (EU).", "translation": "اتحادیه اروپا (EU)." },
+    { "text": "des Warschauer Pakts.", "translation": "پیمان ورشو." }
+  ],
+  "correct": "der Europäischen Union (EU).",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "174" } }
+{
+  "question": "Wann wurde die DDR gegründet?",
+  "question_translation": "جمهوری دموکراتیک آلمان (آلمان شرقی) چه زمانی تأسیس شد؟",
+  "options": [
+    { "text": "1947", "translation": "۱۹۴۷" },
+    { "text": "1949", "translation": "۱۹۴۹" },
+    { "text": "1953", "translation": "۱۹۵۳" },
+    { "text": "1956", "translation": "۱۹۵۶" }
+  ],
+  "correct": "1949",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "175" } }
+{
+  "question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+  "question_translation": "بعد از جنگ جهانی دوم، چند منطقه اشغالی در آلمان وجود داشت؟",
+  "options": [
+    { "text": "3", "translation": "۳" },
+    { "text": "4", "translation": "۴" },
+    { "text": "5", "translation": "۵" },
+    { "text": "6", "translation": "۶" }
+  ],
+  "correct": "4",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "176" } }
+{
+  "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+  "question_translation": "بعد از سال ۱۹۴۵، مناطق اشغالی آلمان چگونه تقسیم شدند؟",
+  "options": [
+    { "text": "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA", "translation": "۱=بریتانیا، ۲=شوروی، ۳=فرانسه، ۴=آمریکا" },
+    { "text": "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich", "translation": "۱=شوروی، ۲=بریتانیا، ۳=آمریکا، ۴=فرانسه" },
+    { "text": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich", "translation": "۱=بریتانیا، ۲=شوروی، ۳=آمریکا، ۴=فرانسه" },
+    { "text": "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich", "translation": "۱=بریتانیا، ۲=آمریکا، ۳=شوروی، ۴=فرانسه" }
+  ],
+  "correct": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "177" } }
+{
+  "question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+  "question_translation": "کدام شهر آلمان بعد از جنگ جهانی دوم به چهار بخش تقسیم شد؟",
+  "options": [
+    { "text": "München", "translation": "مونیخ" },
+    { "text": "Berlin", "translation": "برلین" },
+    { "text": "Dresden", "translation": "درسدن" },
+    { "text": "Frankfurt/Oder", "translation": "فرانکفورت/اودر" }
+  ],
+  "correct": "Berlin",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "178" } }
+{
+  "question": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+  "question_translation": "از ژوئن ۱۹۴۸ تا مه ۱۹۴۹، مردم برلین غربی از طریق پل هوایی تأمین شدند. چه عاملی باعث این موضوع شد؟",
+  "options": [
+    { "text": "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.", "translation": "برای فرانسه تأمین مردم برلین غربی با هواپیما ارزان‌تر بود." },
+    { "text": "Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.", "translation": "سربازان آمریکایی از حمل‌ونقل زمینی به دلیل ترس از حمله می‌ترسیدند." },
+    { "text": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.", "translation": "برای بریتانیا تأمین از طریق پل هوایی سریع‌تر بود." },
+    { "text": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.", "translation": "اتحاد جماهیر شوروی تمام مسیرهای زمینی را قطع کرد." }
+  ],
+  "correct": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "179" } }
+{
+  "question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+  "question_translation": "جنگ جهانی دوم در اروپا رسماً چگونه پایان یافت؟",
+  "options": [
+    { "text": "mit dem Tod Adolf Hitlers", "translation": "با مرگ آدولف هیتلر" },
+    { "text": "durch die bedingungslose Kapitulation Deutschlands", "translation": "با تسلیم بی‌قید و شرط آلمان" },
+    { "text": "mit dem Rückzug der Deutschen aus den besetzten Gebieten", "translation": "با عقب‌نشینی آلمانی‌ها از مناطق اشغالی" },
+    { "text": "durch eine Revolution in Deutschland", "translation": "با یک انقلاب در آلمان" }
+  ],
+  "correct": "durch die bedingungslose Kapitulation Deutschlands",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "180" } }
+{
+  "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+  "question_translation": "نخست‌وزیر اول جمهوری فدرال آلمان کی بود؟",
+  "options": [
+    { "text": "Ludwig Erhard.", "translation": "لودویگ ارهارد" },
+    { "text": "Willy Brandt.", "translation": "ویلی برانت" },
+    { "text": "Konrad Adenauer.", "translation": "کنراد آدناور" },
+    { "text": "Gerhard Schröder.", "translation": "گرهارد شرودر" }
+  ],
+  "correct": "Konrad Adenauer.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "181" } }
+{
+  "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+  "question_translation": "ویلی برانت با زانو زدن در سال ۱۹۷۰ در گتو یهودی سابق در ورشو چه پیامی می‌خواست منتقل کند؟",
+  "options": [
+    { "text": "Er hat sich den ehemaligen Alliierten unterworfen.", "translation": "او خود را به متفقین سابق تسلیم کرد." },
+    { "text": "Er bat Polen und die polnischen Juden um Vergebung.", "translation": "او از لهستان و یهودیان لهستانی طلب بخشش کرد." },
+    { "text": "Er zeigte seine Demut vor dem Warschauer Pakt.", "translation": "او فروتنی خود را در برابر پیمان ورشو نشان داد." },
+    { "text": "Er sprach ein Gebet am Grab des Unbekannten Soldaten.", "translation": "او دعایی در کنار قبر سرباز گمنام خواند." }
+  ],
+  "correct": "Er bat Polen und die polnischen Juden um Vergebung.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "182" } }
+{
+  "question": "Wie heißt das jüdische Gebetshaus?",
+  "question_translation": "خانه عبادت یهودیان چه نام دارد؟",
+  "options": [
+    { "text": "Basilika", "translation": "باسیلیکا" },
+    { "text": "Moschee", "translation": "مسجد" },
+    { "text": "Synagoge", "translation": "کنیسه" },
+    { "text": "Kirche", "translation": "کلیسا" }
+  ],
+  "correct": "Synagoge",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "183" } }
+{
+  "question": "Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?",
+  "question_translation": "معجزه اقتصادی در جمهوری فدرال آلمان در چه زمانی رخ داد؟",
+  "options": [
+    { "text": "40er Jahre", "translation": "دهه ۱۹۴۰" },
+    { "text": "50er Jahre", "translation": "دهه ۱۹۵۰" },
+    { "text": "70er Jahre", "translation": "دهه ۱۹۷۰" },
+    { "text": "80er Jahre", "translation": "دهه ۱۹۸۰" }
+  ],
+  "correct": "50er Jahre",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "184" } }
+{
+  "question": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+  "question_translation": "دولت اسرائیل بر چه پایه حقوقی تأسیس شد؟",
+  "options": [
+    { "text": "eine Resolution der Vereinten Nationen", "translation": "قطعنامه‌ای از سازمان ملل متحد" },
+    { "text": "ein Beschluss des Zionistenkongresses", "translation": "تصمیم کنگره صهیونیست‌ها" },
+    { "text": "ein Vorschlag der Bundesregierung", "translation": "پیشنهاد دولت فدرال آلمان" },
+    { "text": "ein Vorschlag der UdSSR", "translation": "پیشنهاد اتحاد جماهیر شوروی" }
+  ],
+  "correct": "eine Resolution der Vereinten Nationen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "185" } }
+{
+  "question": "Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung …",
+  "question_translation": "عبارت «پرده آهنین» به چه معنا بود؟ برای جداسازی …",
+  "options": [
+    { "text": "des Warschauer Pakts gegen den Westen", "translation": "پیمان ورشو علیه غرب" },
+    { "text": "Norddeutschlands gegen Süddeutschland", "translation": "آلمان شمالی علیه آلمان جنوبی" },
+    { "text": "Nazi-Deutschlands gegen die Alliierten", "translation": "آلمان نازی علیه متفقین" },
+    { "text": "Europas gegen die USA", "translation": "اروپا علیه آمریکا" }
+  ],
+  "correct": "des Warschauer Pakts gegen den Westen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "186" } }
+{
+  "question": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+  "question_translation": "در سال ۱۹۵۳ در آلمان شرقی یک قیام رخ داد که مدت‌ها در جمهوری فدرال آلمان به عنوان روز تعطیل یاد می‌شد. این روز چه زمانی بود؟",
+  "options": [
+    { "text": "1. Mai", "translation": "۱ مه" },
+    { "text": "17. Juni", "translation": "۱۷ ژوئن" },
+    { "text": "20. Juli", "translation": "۲۰ ژوئیه" },
+    { "text": "9. November", "translation": "۹ نوامبر" }
+  ],
+  "correct": "17. Juni",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "187" } }
+{
+  "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+  "question_translation": "کدام دولت آلمان پرچم سیاه-قرمز-طلایی با چکش، پرگار و شاخه گندم داشت؟",
+  "options": [
+    { "text": "Preußen", "translation": "پروس" },
+    { "text": "Bundesrepublik Deutschland", "translation": "جمهوری فدرال آلمان" },
+    { "text": "„Drittes Reich“", "translation": "رایش سوم" },
+    { "text": "DDR", "translation": "آلمان شرقی (جمهوری دموکراتیک آلمان)" }
+  ],
+  "correct": "DDR",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "188" } }
+{
+  "question": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+  "question_translation": "دیوار برلین در چه سالی ساخته شد؟",
+  "options": [
+    { "text": "1953", "translation": "۱۹۵۳" },
+    { "text": "1956", "translation": "۱۹۵۶" },
+    { "text": "1959", "translation": "۱۹۵۹" },
+    { "text": "1961", "translation": "۱۹۶۱" }
+  ],
+  "correct": "1961",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "189" } }
+{
+  "question": "Wann baute die DDR die Mauer in Berlin?",
+  "question_translation": "آلمان شرقی چه زمانی دیوار برلین را ساخت؟",
+  "options": [
+    { "text": "1919", "translation": "۱۹۱۹" },
+    { "text": "1933", "translation": "۱۹۳۳" },
+    { "text": "1961", "translation": "۱۹۶۱" },
+    { "text": "1990", "translation": "۱۹۹۰" }
+  ],
+  "correct": "1961",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "190" } }
+{
+  "question": "Was bedeutet die Abkürzung DDR?",
+  "question_translation": "اختصار DDR چه معنی دارد؟",
+  "options": [
+    { "text": "Dritter Deutscher Rundfunk", "translation": "رادیو آلمان سوم" },
+    { "text": "Die Deutsche Republik", "translation": "جمهوری آلمان" },
+    { "text": "Dritte Deutsche Republik", "translation": "سومین جمهوری آلمان" },
+    { "text": "Deutsche Demokratische Republik", "translation": "جمهوری دموکراتیک آلمان" }
+  ],
+  "correct": "Deutsche Demokratische Republik",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "191" } }
+{
+  "question": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+  "question_translation": "دیوار برلین چه زمانی برای همه باز شد؟",
+  "options": [
+    { "text": "1987", "translation": "۱۹۸۷" },
+    { "text": "1989", "translation": "۱۹۸۹" },
+    { "text": "1992", "translation": "۱۹۹۲" },
+    { "text": "1995", "translation": "۱۹۹۵" }
+  ],
+  "correct": "1989",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "192" } }
+{
+  "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "question_translation": "کدام ایالت کنونی آلمان قبلاً بخشی از آلمان شرقی بود؟",
+  "options": [
+    { "text": "Brandenburg", "translation": "براندنبورگ" },
+    { "text": "Bayern", "translation": "بایرن" },
+    { "text": "Saarland", "translation": "زارلاند" },
+    { "text": "Hessen", "translation": "هسن" }
+  ],
+  "correct": "Brandenburg",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "193" } }
+{
+  "question": "Von 1961 bis 1989 war Berlin …",
+  "question_translation": "از ۱۹۶۱ تا ۱۹۸۹ برلین چگونه بود؟",
+  "options": [
+    { "text": "ohne Bürgermeister.", "translation": "بدون شهردار" },
+    { "text": "ein eigener Staat.", "translation": "یک کشور مستقل" },
+    { "text": "durch eine Mauer geteilt.", "translation": "با یک دیوار تقسیم شده بود" },
+    { "text": "nur mit dem Flugzeug erreichbar.", "translation": "فقط با هواپیما قابل دسترسی بود" }
+  ],
+  "correct": "durch eine Mauer geteilt.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "194" } }
+{
+  "question": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
+  "question_translation": "در ۳ اکتبر در آلمان چه روزی جشن گرفته می‌شود؟",
+  "options": [
+    { "text": "Einheit.", "translation": "وحدت" },
+    { "text": "Nation.", "translation": "ملت" },
+    { "text": "Bundesländer.", "translation": "ایالات فدرال" },
+    { "text": "Städte.", "translation": "شهرها" }
+  ],
+  "correct": "Einheit.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "195" } }
+{
+  "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "question_translation": "کدام ایالت کنونی آلمان قبلاً بخشی از آلمان شرقی بود؟",
+  "options": [
+    { "text": "Hessen", "translation": "هسن" },
+    { "text": "Sachsen-Anhalt", "translation": "زاکسن-آنهالت" },
+    { "text": "Nordrhein-Westfalen", "translation": "نوردراین-وستفالن" },
+    { "text": "Saarland", "translation": "زارلاند" }
+  ],
+  "correct": "Sachsen-Anhalt",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "196" } }
+{
+  "question": "Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit veränderte sich die DDR politisch …",
+  "question_translation": "چرا به پاییز ۱۹۸۹ در آلمان شرقی «تحول» می‌گویند؟ در این زمان آلمان شرقی از نظر سیاسی چگونه تغییر کرد؟",
+  "options": [
+    { "text": "von einer Diktatur zur Demokratie.", "translation": "از دیکتاتوری به دموکراسی" },
+    { "text": "von einer liberalen Marktwirtschaft zum Sozialismus.", "translation": "از اقتصاد بازار آزاد به سوسیالیسم" },
+    { "text": "von einer Monarchie zur Sozialdemokratie.", "translation": "از سلطنت به دموکراسی اجتماعی" },
+    { "text": "von einem religiösen Staat zu einem kommunistischen Staat.", "translation": "از یک دولت مذهبی به دولت کمونیستی" }
+  ],
+  "correct": "von einer Diktatur zur Demokratie.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "197" } }
+{
+  "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "question_translation": "کدام ایالت کنونی آلمان قبلاً بخشی از آلمان شرقی بود؟",
+  "options": [
+    { "text": "Thüringen", "translation": "تورینگن" },
+    { "text": "Hessen", "translation": "هسن" },
+    { "text": "Bayern", "translation": "بایرن" },
+    { "text": "Bremen", "translation": "برمن" }
+  ],
+  "correct": "Thüringen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "198" } }
+{
+  "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "question_translation": "کدام ایالت کنونی آلمان قبلاً بخشی از آلمان شرقی بود؟",
+  "options": [
+    { "text": "Bayern", "translation": "بایرن" },
+    { "text": "Niedersachsen", "translation": "نیدرزاکسن" },
+    { "text": "Sachsen", "translation": "زاکسن" },
+    { "text": "Baden-Württemberg", "translation": "بادن-وورتمبرگ" }
+  ],
+  "correct": "Sachsen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "199" } }
+{
+  "question": "Mit der Abkürzung „Stasi“ meinte man in der DDR …",
+  "question_translation": "اختصار «استازی» در آلمان شرقی به چه چیزی اشاره داشت؟",
+  "options": [
+    { "text": "das Parlament.", "translation": "پارلمان" },
+    { "text": "das Ministerium für Staatssicherheit.", "translation": "وزارت امنیت دولتی" },
+    { "text": "eine regierende Partei.", "translation": "یک حزب حاکم" },
+    { "text": "das Ministerium für Volksbildung.", "translation": "وزارت آموزش مردم" }
+  ],
+  "correct": "das Ministerium für Staatssicherheit.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "200" } }
+{
+  "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "question_translation": "کدام ایالت کنونی آلمان قبلاً بخشی از آلمان شرقی بود؟",
+  "options": [
+    { "text": "Hessen", "translation": "هسن" },
+    { "text": "Schleswig-Holstein", "translation": "شلزویگ-هولشتاین" },
+    { "text": "Mecklenburg-Vorpommern", "translation": "مکلنبورگ-فورپومرن" },
+    { "text": "Saarland", "translation": "زارلاند" }
+  ],
+  "correct": "Mecklenburg-Vorpommern",
+  "state": "Deutschland"
+}
 
