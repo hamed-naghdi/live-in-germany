@@ -2578,4 +2578,1278 @@
   "correct": "Mecklenburg-Vorpommern",
   "state": "Deutschland"
 }
+{ "index": { "_id": "201" } }
+{
+  "question": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+  "question_translation": "کدام یک از فهرست‌های زیر فقط شامل ایالت‌هایی است که قبلاً بخشی از آلمان شرقی بودند؟",
+  "options": [
+    { "text": "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg", "translation": "نیدرزاکسن، نوردراین-وستفالن، هسن، شلزویگ-هولشتاین، براندنبورگ" },
+    { "text": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen", "translation": "مکلنبورگ-فورپومرن، براندنبورگ، زاکسن، زاکسن-آنهالت، تورینگن" },
+    { "text": "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen", "translation": "بایرن، بادن-وورتمبرگ، راینلاند-فالتس، تورینگن، زاکسن" },
+    { "text": "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg", "translation": "زاکسن، تورینگن، هسن، نیدرزاکسن، براندنبورگ" }
+  ],
+  "correct": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "202" } }
+{
+  "question": "Zu wem gehörte die DDR im „Kalten Krieg“?",
+  "question_translation": "در «جنگ سرد»، آلمان شرقی تحت سلطه کدام بلوک بود؟",
+  "options": [
+    { "text": "zu den Westmächten", "translation": "قدرت‌های غربی" },
+    { "text": "zum Warschauer Pakt", "translation": "پیمان ورشو" },
+    { "text": "zur NATO", "translation": "ناتو" },
+    { "text": "zu den blockfreien Staaten", "translation": "کشورهای غیرمتعهد" }
+  ],
+  "correct": "zum Warschauer Pakt",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "203" } }
+{
+  "question": "Wie hieß das Wirtschaftssystem der DDR?",
+  "question_translation": "سیستم اقتصادی آلمان شرقی چه نام داشت؟",
+  "options": [
+    { "text": "Marktwirtschaft", "translation": "اقتصاد بازار" },
+    { "text": "Planwirtschaft", "translation": "اقتصاد برنامه‌ریزی‌شده" },
+    { "text": "Angebot und Nachfrage", "translation": "عرضه و تقاضا" },
+    { "text": "Kapitalismus", "translation": "سرمایه‌داری" }
+  ],
+  "correct": "Planwirtschaft",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "204" } }
+{
+  "question": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+  "question_translation": "جمهوری فدرال آلمان و آلمان شرقی چگونه به یک کشور تبدیل شدند؟",
+  "options": [
+    { "text": "Die Bundesrepublik hat die DDR besetzt.", "translation": "جمهوری فدرال آلمان آلمان شرقی را اشغال کرد." },
+    { "text": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.", "translation": "پنج ایالت شرقی کنونی به جمهوری فدرال آلمان پیوستند." },
+    { "text": "Die westlichen Bundesländer sind der DDR beigetreten.", "translation": "ایالت‌های غربی به آلمان شرقی پیوستند." },
+    { "text": "Die DDR hat die Bundesrepublik Deutschland besetzt.", "translation": "آلمان شرقی جمهوری فدرال آلمان را اشغال کرد." }
+  ],
+  "correct": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "205" } }
+{
+  "question": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …",
+  "question_translation": "با پیوستن آلمان شرقی به جمهوری فدرال آلمان، ایالت‌های جدید اکنون عضو چه چیزی هستند؟",
+  "options": [
+    { "text": "zur Europäischen Union.", "translation": "اتحادیه اروپا" },
+    { "text": "zum Warschauer Pakt.", "translation": "پیمان ورشو" },
+    { "text": "zur OPEC.", "translation": "اوپک" },
+    { "text": "zur Europäischen Verteidigungsgemeinschaft.", "translation": "جامعه دفاعی اروپا" }
+  ],
+  "correct": "zur Europäischen Union.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "206" } }
+{
+  "question": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+  "question_translation": "سنگ‌های موسوم به «Stolpersteine» در آلمان به چه چیزی یادآوری می‌کنند؟",
+  "options": [
+    { "text": "an berühmte deutsche Politikerinnen und Politiker", "translation": "سیاستمداران مشهور آلمانی" },
+    { "text": "an die Opfer des Nationalsozialismus", "translation": "قربانیان نازیسم" },
+    { "text": "an Verkehrstote", "translation": "قربانیان تصادفات رانندگی" },
+    { "text": "an bekannte jüdische Musiker", "translation": "موسیقی‌دانان یهودی مشهور" }
+  ],
+  "correct": "an die Opfer des Nationalsozialismus",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "207" } }
+{
+  "question": "In welchem Militärbündnis war die DDR Mitglied?",
+  "question_translation": "آلمان شرقی عضو کدام پیمان نظامی بود؟",
+  "options": [
+    { "text": "in der NATO", "translation": "ناتو" },
+    { "text": "im Rheinbund", "translation": "پیمان راین" },
+    { "text": "im Warschauer Pakt", "translation": "پیمان ورشو" },
+    { "text": "im Europabündnis", "translation": "اتحاد اروپا" }
+  ],
+  "correct": "im Warschauer Pakt",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "208" } }
+{
+  "question": "Was war die „Stasi“?",
+  "question_translation": "«استازی» چه بود؟",
+  "options": [
+    { "text": "der Geheimdienst im „Dritten Reich“", "translation": "سرویس مخفی در رایش سوم" },
+    { "text": "eine berühmte deutsche Gedenkstätte", "translation": "یک مکان یادبود مشهور آلمان" },
+    { "text": "der Geheimdienst der DDR", "translation": "سرویس مخفی آلمان شرقی" },
+    { "text": "ein deutscher Sportverein während des Zweiten Weltkrieges", "translation": "یک باشگاه ورزشی آلمانی در طول جنگ جهانی دوم" }
+  ],
+  "correct": "der Geheimdienst der DDR",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "209" } }
+{
+  "question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+  "question_translation": "کدام نشان متعلق به جمهوری دموکراتیک آلمان بود؟",
+  "options": [
+    { "text": "Bild 1", "translation": "تصویر ۱" },
+    { "text": "Bild 2", "translation": "تصویر ۲" },
+    { "text": "Bild 3", "translation": "تصویر ۳" },
+    { "text": "Bild 4", "translation": "تصویر ۴" }
+  ],
+  "correct": "Bild 4",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "210" } }
+{
+  "question": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+  "question_translation": "در ۱۷ ژوئن ۱۹۵۳ در آلمان شرقی چه اتفاقی افتاد؟",
+  "options": [
+    { "text": "der feierliche Beitritt zum Warschauer Pakt", "translation": "پیوستن رسمی به پیمان ورشو" },
+    { "text": "landesweite Streiks und ein Volksaufstand", "translation": "اعتصابات سراسری و یک قیام مردمی" },
+    { "text": "der 1. SED-Parteitag", "translation": "اولین کنگره حزب SED" },
+    { "text": "der erste Besuch Fidel Castros", "translation": "اولین بازدید فیدل کاسترو" }
+  ],
+  "correct": "landesweite Streiks und ein Volksaufstand",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "211" } }
+{
+  "question": "Welcher Politiker steht für die „Ostverträge“?",
+  "question_translation": "کدام سیاستمدار مسئول «معاهدات شرقی» است؟",
+  "options": [
+    { "text": "Helmut Kohl", "translation": "هلموت کُهل" },
+    { "text": "Willy Brandt", "translation": "ویلی برانت" },
+    { "text": "Michail Gorbatschow", "translation": "میخائیل گورباچف" },
+    { "text": "Ludwig Erhard", "translation": "لودویگ ارهارد" }
+  ],
+  "correct": "Willy Brandt",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "212" } }
+{
+  "question": "Wie heißt Deutschland mit vollem Namen?",
+  "question_translation": "نام کامل کشور آلمان چیست؟",
+  "options": [
+    { "text": "Bundesstaat Deutschland", "translation": "دولت فدرال آلمان" },
+    { "text": "Bundesländer Deutschland", "translation": "ایالات فدرال آلمان" },
+    { "text": "Bundesrepublik Deutschland", "translation": "جمهوری فدرال آلمان" },
+    { "text": "Bundesbezirk Deutschland", "translation": "ناحیه فدرال آلمان" }
+  ],
+  "correct": "Bundesrepublik Deutschland",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "213" } }
+{
+  "question": "Wie viele Einwohner hat Deutschland?",
+  "question_translation": "جمعیت آلمان چقدر است؟",
+  "options": [
+    { "text": "70 Millionen", "translation": "۷۰ میلیون" },
+    { "text": "78 Millionen", "translation": "۷۸ میلیون" },
+    { "text": "84 Millionen", "translation": "۸۴ میلیون" },
+    { "text": "90 Millionen", "translation": "۹۰ میلیون" }
+  ],
+  "correct": "84 Millionen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "214" } }
+{
+  "question": "Welche Farben hat die deutsche Flagge?",
+  "question_translation": "پرچم آلمان چه رنگ‌هایی دارد؟",
+  "options": [
+    { "text": "schwarz-rot-gold", "translation": "سیاه-قرمز-طلایی" },
+    { "text": "rot-weiß-schwarz", "translation": "قرمز-سفید-سیاه" },
+    { "text": "schwarz-rot-grün", "translation": "سیاه-قرمز-سبز" },
+    { "text": "schwarz-gelb-rot", "translation": "سیاه-زرد-قرمز" }
+  ],
+  "correct": "schwarz-rot-gold",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "215" } }
+{
+  "question": "Wer wird als „Kanzler der Deutschen Einheit“ bezeichnet?",
+  "question_translation": "چه کسی به عنوان «صدراعظم وحدت آلمان» شناخته می‌شود؟",
+  "options": [
+    { "text": "Gerhard Schröder", "translation": "گرهارد شرودر" },
+    { "text": "Helmut Kohl", "translation": "هلموت کُهل" },
+    { "text": "Konrad Adenauer", "translation": "کنراد آدناور" },
+    { "text": "Helmut Schmidt", "translation": "هلموت اشمیت" }
+  ],
+  "correct": "Helmut Kohl",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "216" } }
+{
+  "question": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+  "question_translation": "چه نمادی در تالار پارلمان آلمان (بوندستاگ) دیده می‌شود؟",
+  "options": [
+    { "text": "der Bundesadler", "translation": "عقاب فدرال" },
+    { "text": "die Fahne der Stadt Berlin", "translation": "پرچم شهر برلین" },
+    { "text": "der Reichsadler", "translation": "عقاب امپراتوری" },
+    { "text": "die Reichskrone", "translation": "تاج امپراتوری" }
+  ],
+  "correct": "der Bundesadler",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "217" } }
+{
+  "question": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+  "question_translation": "جمهوری دموکراتیک آلمان (آلمان شرقی) در چه بازه زمانی وجود داشت؟",
+  "options": [
+    { "text": "1919 bis 1927", "translation": "۱۹۱۹ تا ۱۹۲۷" },
+    { "text": "1933 bis 1945", "translation": "۱۹۳۳ تا ۱۹۴۵" },
+    { "text": "1945 bis 1961", "translation": "۱۹۴۵ تا ۱۹۶۱" },
+    { "text": "1949 bis 1990", "translation": "۱۹۴۹ تا ۱۹۹۰" }
+  ],
+  "correct": "1949 bis 1990",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "218" } }
+{
+  "question": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+  "question_translation": "چند ایالت در زمان اتحاد مجدد ۱۹۹۰ به جمهوری فدرال آلمان پیوستند؟",
+  "options": [
+    { "text": "4", "translation": "۴" },
+    { "text": "5", "translation": "۵" },
+    { "text": "6", "translation": "۶" },
+    { "text": "7", "translation": "۷" }
+  ],
+  "correct": "5",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "219" } }
+{
+  "question": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit …",
+  "question_translation": "جمهوری فدرال آلمان از چه زمانی دارای مرزهای کنونی است؟",
+  "options": [
+    { "text": "1933", "translation": "۱۹۳۳" },
+    { "text": "1949", "translation": "۱۹۴۹" },
+    { "text": "1971", "translation": "۱۹۷۱" },
+    { "text": "1990", "translation": "۱۹۹۰" }
+  ],
+  "correct": "1990",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "220" } }
+{
+  "question": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+  "question_translation": "۲۷ ژانویه یک روز یادبود رسمی در آلمان است. این روز به چه چیزی اشاره دارد؟",
+  "options": [
+    { "text": "an das Ende des Zweiten Weltkrieges", "translation": "پایان جنگ جهانی دوم" },
+    { "text": "an die Verabschiedung des Grundgesetzes", "translation": "تصویب قانون اساسی" },
+    { "text": "an die Wiedervereinigung Deutschlands", "translation": "اتحاد مجدد آلمان" },
+    { "text": "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)", "translation": "قربانیان نازیسم (روز آزادسازی اردوگاه آشویتس)" }
+  ],
+  "correct": "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "221" } }
+{
+  "question": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+  "question_translation": "آلمان عضو پیمان شنگن است. این به چه معناست؟",
+  "options": [
+    { "text": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.", "translation": "آلمانی‌ها می‌توانند به بسیاری از کشورهای اروپایی بدون کنترل پاسپورت سفر کنند." },
+    { "text": "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.", "translation": "تمام افراد می‌توانند بدون کنترل شخصی وارد آلمان شوند." },
+    { "text": "Deutsche können ohne Passkontrolle in jedes Land reisen.", "translation": "آلمانی‌ها می‌توانند بدون کنترل پاسپورت به هر کشوری سفر کنند." },
+    { "text": "Deutsche können in jedem Land mit dem Euro bezahlen.", "translation": "آلمانی‌ها می‌توانند در هر کشور با یورو پرداخت کنند." }
+  ],
+  "correct": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "222" } }
+{
+  "question": "Welches Land ist ein Nachbarland von Deutschland?",
+  "question_translation": "کدام کشور همسایه آلمان است؟",
+  "options": [
+    { "text": "Ungarn", "translation": "مجارستان" },
+    { "text": "Portugal", "translation": "پرتغال" },
+    { "text": "Spanien", "translation": "اسپانیا" },
+    { "text": "Schweiz", "translation": "سوئیس" }
+  ],
+  "correct": "Schweiz",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "223" } }
+{
+  "question": "Welches Land ist ein Nachbarland von Deutschland?",
+  "question_translation": "کدام کشور همسایه آلمان است؟",
+  "options": [
+    { "text": "Rumänien", "translation": "رومانی" },
+    { "text": "Bulgarien", "translation": "بلغارستان" },
+    { "text": "Polen", "translation": "لهستان" },
+    { "text": "Griechenland", "translation": "یونان" }
+  ],
+  "correct": "Polen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "224" } }
+{
+  "question": "Was bedeutet die Abkürzung EU?",
+  "question_translation": "اختصار EU به چه معناست؟",
+  "options": [
+    { "text": "Europäische Unternehmen", "translation": "شرکت‌های اروپایی" },
+    { "text": "Europäische Union", "translation": "اتحادیه اروپا" },
+    { "text": "Einheitliche Union", "translation": "اتحاد یکپارچه" },
+    { "text": "Euro Union", "translation": "اتحاد یورو" }
+  ],
+  "correct": "Europäische Union",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "225" } }
+{
+  "question": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+  "question_translation": "در کدام کشور دیگر جمعیت زیادی از آلمانی‌زبان‌ها وجود دارد؟",
+  "options": [
+    { "text": "Tschechien", "translation": "چک" },
+    { "text": "Norwegen", "translation": "نروژ" },
+    { "text": "Spanien", "translation": "اسپانیا" },
+    { "text": "Österreich", "translation": "اتریش" }
+  ],
+  "correct": "Österreich",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "226" } }
+{
+  "question": "Welche ist die Flagge der Europäischen Union?",
+  "question_translation": "کدام پرچم متعلق به اتحادیه اروپا است؟",
+  "options": [
+    { "text": "Bild 1", "translation": "تصویر ۱" },
+    { "text": "Bild 2", "translation": "تصویر ۲" },
+    { "text": "Bild 3", "translation": "تصویر ۳" },
+    { "text": "Bild 4", "translation": "تصویر ۴" }
+  ],
+  "correct": "Bild 2",
+  "state": "Europa"
+}
+{ "index": { "_id": "227" } }
+{
+  "question": "Welches Land ist ein Nachbarland von Deutschland?",
+  "question_translation": "کدام کشور همسایه آلمان است؟",
+  "options": [
+    { "text": "Finnland", "translation": "فنلاند" },
+    { "text": "Dänemark", "translation": "دانمارک" },
+    { "text": "Norwegen", "translation": "نروژ" },
+    { "text": "Schweden", "translation": "سوئد" }
+  ],
+  "correct": "Dänemark",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "228" } }
+{
+  "question": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+  "question_translation": "پیوستن آلمان شرقی به جمهوری فدرال آلمان در سال ۱۹۹۰ به طور عمومی چه نامیده می‌شود؟",
+  "options": [
+    { "text": "NATO-Osterweiterung", "translation": "گسترش ناتو به شرق" },
+    { "text": "EU-Osterweiterung", "translation": "گسترش اتحادیه اروپا به شرق" },
+    { "text": "Deutsche Wiedervereinigung", "translation": "اتحاد مجدد آلمان" },
+    { "text": "Europäische Gemeinschaft", "translation": "جامعه اروپایی" }
+  ],
+  "correct": "Deutsche Wiedervereinigung",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "229" } }
+{
+  "question": "Welches Land ist ein Nachbarland von Deutschland?",
+  "question_translation": "کدام کشور همسایه آلمان است؟",
+  "options": [
+    { "text": "Spanien", "translation": "اسپانیا" },
+    { "text": "Bulgarien", "translation": "بلغارستان" },
+    { "text": "Norwegen", "translation": "نروژ" },
+    { "text": "Luxemburg", "translation": "لوکزامبورگ" }
+  ],
+  "correct": "Luxemburg",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "230" } }
+{
+  "question": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …",
+  "question_translation": "پارلمان اروپا هر چند سال یکبار به صورت منظم انتخاب می‌شود؟",
+  "options": [
+    { "text": "5 Jahre.", "translation": "۵ سال" },
+    { "text": "6 Jahre.", "translation": "۶ سال" },
+    { "text": "7 Jahre.", "translation": "۷ سال" },
+    { "text": "8 Jahre.", "translation": "۸ سال" }
+  ],
+  "correct": "5 Jahre.",
+  "state": "Europa"
+}
+{ "index": { "_id": "231" } }
+{
+  "question": "Was bedeutet der Begriff „europäische Integration“?",
+  "question_translation": "اصطلاح «یکپارچگی اروپایی» به چه معناست؟",
+  "options": [
+    { "text": "Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.", "translation": "مهاجران آمریکایی در اروپا منظور است." },
+    { "text": "Der Begriff meint den Einwanderungsstopp nach Europa.", "translation": "این اصطلاح به توقف مهاجرت به اروپا اشاره دارد." },
+    { "text": "Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.", "translation": "مهاجران اروپایی در آمریکا منظور است." },
+    { "text": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.", "translation": "این اصطلاح به اتحاد کشورهای اروپایی در اتحادیه اروپا اشاره دارد." }
+  ],
+  "correct": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
+  "state": "Europa"
+}
+{ "index": { "_id": "232" } }
+{
+  "question": "Wer wird bei der Europawahl gewählt?",
+  "question_translation": "چه کسی در انتخابات اروپا انتخاب می‌شود؟",
+  "options": [
+    { "text": "die Europäische Kommission", "translation": "کمیسیون اروپا" },
+    { "text": "die Länder, die in die EU eintreten dürfen", "translation": "کشورهایی که اجازه پیوستن به اتحادیه اروپا دارند" },
+    { "text": "die Abgeordneten des Europäischen Parlaments", "translation": "نمایندگان پارلمان اروپا" },
+    { "text": "die europäische Verfassung", "translation": "قانون اساسی اروپایی" }
+  ],
+  "correct": "die Abgeordneten des Europäischen Parlaments",
+  "state": "Europa"
+}
+{ "index": { "_id": "233" } }
+{
+  "question": "Welches Land ist ein Nachbarland von Deutschland?",
+  "question_translation": "کدام کشور همسایه آلمان است؟",
+  "options": [
+    { "text": "Tschechien", "translation": "چک" },
+    { "text": "Bulgarien", "translation": "بلغارستان" },
+    { "text": "Griechenland", "translation": "یونان" },
+    { "text": "Portugal", "translation": "پرتغال" }
+  ],
+  "correct": "Tschechien",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "234" } }
+{
+  "question": "Wo ist ein Sitz des Europäischen Parlaments?",
+  "question_translation": "پارلمان اروپا در کجا مستقر است؟",
+  "options": [
+    { "text": "London", "translation": "لندن" },
+    { "text": "Paris", "translation": "پاریس" },
+    { "text": "Berlin", "translation": "برلین" },
+    { "text": "Straßburg", "translation": "استراسبورگ" }
+  ],
+  "correct": "Straßburg",
+  "state": "Europa"
+}
+{ "index": { "_id": "235" } }
+{
+  "question": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
+  "question_translation": "رئیس‌جمهور وقت فرانسه، فرانسوا میتران، و صدراعظم وقت آلمان، هلموت کُهل، در وردن یاد قربانیان هر دو جنگ جهانی را گرامی می‌دارند. کدام هدف اتحادیه اروپا در این دیدار روشن می‌شود؟",
+  "options": [
+    { "text": "Freundschaft zwischen England und Deutschland", "translation": "دوستی بین انگلستان و آلمان" },
+    { "text": "Reisefreiheit in alle Länder der EU", "translation": "آزادی سفر به تمام کشورهای اتحادیه اروپا" },
+    { "text": "Frieden und Sicherheit in den Ländern der EU", "translation": "صلح و امنیت در کشورهای اتحادیه اروپا" },
+    { "text": "einheitliche Feiertage in den Ländern der EU", "translation": "تعطیلات یکسان در کشورهای اتحادیه اروپا" }
+  ],
+  "correct": "Frieden und Sicherheit in den Ländern der EU",
+  "state": "Europa"
+}
+{ "index": { "_id": "236" } }
+{
+  "question": "Wie viele Mitgliedstaaten hat die EU heute?",
+  "question_translation": "اتحادیه اروپا امروز چند کشور عضو دارد؟",
+  "options": [
+    { "text": "21", "translation": "۲۱" },
+    { "text": "23", "translation": "۲۳" },
+    { "text": "25", "translation": "۲۵" },
+    { "text": "27", "translation": "۲۷" }
+  ],
+  "correct": "27",
+  "state": "Europa"
+}
+{ "index": { "_id": "237" } }
+{
+  "question": "2007 wurde das 50-jährige Jubiläum der „Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?",
+  "question_translation": "در سال ۲۰۰۷ پنجاهمین سالگرد «معاهدات رُم» جشن گرفته شد. محتوای این معاهدات چه بود؟",
+  "options": [
+    { "text": "Beitritt Deutschlands zur NATO", "translation": "پیوستن آلمان به ناتو" },
+    { "text": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)", "translation": "تأسیس جامعه اقتصادی اروپا (EEC)" },
+    { "text": "Verpflichtung Deutschlands zu Reparationsleistungen", "translation": "تعهد آلمان به پرداخت غرامت" },
+    { "text": "Festlegung der Oder-Neiße-Linie als Ostgrenze", "translation": "تعیین خط اودر-نایسه به عنوان مرز شرقی" }
+  ],
+  "correct": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+  "state": "Europa"
+}
+{ "index": { "_id": "238" } }
+{
+  "question": "An welchen Orten arbeitet das Europäische Parlament?",
+  "question_translation": "پارلمان اروپا در کدام مکان‌ها فعالیت می‌کند؟",
+  "options": [
+    { "text": "Paris, London und Den Haag", "translation": "پاریس، لندن و لاهه" },
+    { "text": "Straßburg, Luxemburg und Brüssel", "translation": "استراسبورگ، لوکزامبورگ و بروکسل" },
+    { "text": "Rom, Bern und Wien", "translation": "رم، برن و وین" },
+    { "text": "Bonn, Zürich und Mailand", "translation": "بن، زوریخ و میلان" }
+  ],
+  "correct": "Straßburg, Luxemburg und Brüssel",
+  "state": "Europa"
+}
+{ "index": { "_id": "239" } }
+{
+  "question": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+  "question_translation": "از طریق کدام معاهدات، جمهوری فدرال آلمان با دیگر کشورها به جامعه اقتصادی اروپا پیوست؟",
+  "options": [
+    { "text": "durch die „Hamburger Verträge“", "translation": "از طریق معاهدات هامبورگ" },
+    { "text": "durch die „Römischen Verträge“", "translation": "از طریق معاهدات رم" },
+    { "text": "durch die „Pariser Verträge“", "translation": "از طریق معاهدات پاریس" },
+    { "text": "durch die „Londoner Verträge“", "translation": "از طریق معاهدات لندن" }
+  ],
+  "correct": "durch die „Römischen Verträge“",
+  "state": "Europa"
+}
+{ "index": { "_id": "240" } }
+{
+  "question": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+  "question_translation": "از چه زمانی پرداخت نقدی با یورو در آلمان معمول شد؟",
+  "options": [
+    { "text": "1995", "translation": "۱۹۹۵" },
+    { "text": "1998", "translation": "۱۹۹۸" },
+    { "text": "2002", "translation": "۲۰۰۲" },
+    { "text": "2005", "translation": "۲۰۰۵" }
+  ],
+  "correct": "2002",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "241" } }
+{
+  "question": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+  "question_translation": "خانم سگِر صاحب فرزند می‌شود. برای دریافت کمک والدینی چه کاری باید انجام دهد؟",
+  "options": [
+    { "text": "Sie muss an ihre Krankenkasse schreiben.", "translation": "باید به بیمه خود نامه بنویسد." },
+    { "text": "Sie muss einen Antrag bei der Elterngeldstelle stellen.", "translation": "باید در اداره کمک والدینی درخواست ارائه دهد." },
+    { "text": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.", "translation": "نیازی به کاری ندارد، به طور خودکار کمک والدینی دریافت می‌کند." },
+    { "text": "Sie muss das Arbeitsamt um Erlaubnis bitten.", "translation": "باید از اداره کار اجازه بگیرد." }
+  ],
+  "correct": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "242" } }
+{
+  "question": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+  "question_translation": "چه کسی تصمیم می‌گیرد که کودک در آلمان به مهدکودک برود؟",
+  "options": [
+    { "text": "der Staat", "translation": "دولت" },
+    { "text": "die Bundesländer", "translation": "ایالات فدرال" },
+    { "text": "die Eltern/die Erziehungsberechtigten", "translation": "والدین / قیم قانونی" },
+    { "text": "die Schulen", "translation": "مدارس" }
+  ],
+  "correct": "die Eltern/die Erziehungsberechtigten",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "243" } }
+{
+  "question": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+  "question_translation": "مایک و زیبیل می‌خواهند با دوستان خود در محل زندگی‌شان در آلمان تظاهراتی در خیابان برگزار کنند. قبل از آن چه باید انجام دهند؟",
+  "options": [
+    { "text": "Sie müssen die Demonstration anmelden.", "translation": "باید تظاهرات را ثبت کنند." },
+    { "text": "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.", "translation": "نیازی به کاری ندارند. در آلمان می‌توان در هر زمان و مکان تظاهرات کرد." },
+    { "text": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.", "translation": "نمی‌توانند کاری انجام دهند، زیرا تظاهرات در آلمان اساساً ممنوع است." },
+    { "text": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.", "translation": "مایک و زیبیل باید یک انجمن جدید تشکیل دهند، زیرا تنها انجمن‌ها می‌توانند تظاهرات کنند." }
+  ],
+  "correct": "Sie müssen die Demonstration anmelden.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "244" } }
+{
+  "question": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+  "question_translation": "برای شروع تحصیل در دانشگاه در آلمان معمولاً به چه مدرکی نیاز است؟",
+  "options": [
+    { "text": "das Abitur", "translation": "آبیتور (دیپلم نهایی دبیرستان)" },
+    { "text": "ein Diplom", "translation": "دیپلم" },
+    { "text": "die Prokura", "translation": "نمایندگی قانونی" },
+    { "text": "eine Gesellenprüfung", "translation": "آزمون پیشه‌وری" }
+  ],
+  "correct": "das Abitur",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "245" } }
+{
+  "question": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+  "question_translation": "چه کسی در آلمان حق ندارد به عنوان یک زوج زندگی کند؟",
+  "options": [
+    { "text": "Hans (20 Jahre) und Marie (19 Jahre)", "translation": "هانس (۲۰ ساله) و ماری (۱۹ ساله)" },
+    { "text": "Tom (20 Jahre) und Klaus (45 Jahre)", "translation": "تام (۲۰ ساله) و کلاوس (۴۵ ساله)" },
+    { "text": "Sofie (35 Jahre) und Lisa (40 Jahre)", "translation": "سوفی (۳۵ ساله) و لیزا (۴۰ ساله)" },
+    { "text": "Anne (13 Jahre) und Tim (25 Jahre)", "translation": "آن (۱۳ ساله) و تیم (۲۵ ساله)" }
+  ],
+  "correct": "Anne (13 Jahre) und Tim (25 Jahre)",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "246" } }
+{
+  "question": "Ab welchem Alter ist man in Deutschland volljährig?",
+  "question_translation": "از چه سنی در آلمان فرد به سن قانونی می‌رسد؟",
+  "options": [
+    { "text": "16", "translation": "۱۶" },
+    { "text": "18", "translation": "۱۸" },
+    { "text": "19", "translation": "۱۹" },
+    { "text": "21", "translation": "۲۱" }
+  ],
+  "correct": "18",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "247" } }
+{
+  "question": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+  "question_translation": "یک زن باردار است. او قبل و بعد از تولد فرزندش توسط قانون به طور ویژه محافظت می‌شود. این محافظت چه نام دارد؟",
+  "options": [
+    { "text": "Elternzeit", "translation": "مرخصی والدین" },
+    { "text": "Mutterschutz", "translation": "محافظت مادران" },
+    { "text": "Geburtsvorbereitung", "translation": "آمادگی برای زایمان" },
+    { "text": "Wochenbett", "translation": "پس از زایمان" }
+  ],
+  "correct": "Mutterschutz",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "248" } }
+{
+  "question": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …",
+  "question_translation": "آموزش و پرورش کودکان در آلمان عمدتاً وظیفهٔ کیست؟",
+  "options": [
+    { "text": "des Staates.", "translation": "دولت" },
+    { "text": "der Eltern.", "translation": "والدین" },
+    { "text": "der Großeltern.", "translation": "پدربزرگ و مادربزرگ" },
+    { "text": "der Schulen.", "translation": "مدارس" }
+  ],
+  "correct": "der Eltern.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "249" } }
+{
+  "question": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+  "question_translation": "چه کسی عمدتاً مسئول پرورش کودکان در آلمان است؟",
+  "options": [
+    { "text": "der Staat", "translation": "دولت" },
+    { "text": "die Eltern", "translation": "والدین" },
+    { "text": "die Verwandten", "translation": "خویشاوندان" },
+    { "text": "die Schulen", "translation": "مدارس" }
+  ],
+  "correct": "die Eltern",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "250" } }
+{
+  "question": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
+  "question_translation": "در آلمان بهترین شانس برای داشتن شغل پردرآمد وقتی است که …",
+  "options": [
+    { "text": "katholisch ist.", "translation": "کاتولیک باشد." },
+    { "text": "gut ausgebildet ist.", "translation": "خوب آموزش دیده باشد." },
+    { "text": "eine Frau ist.", "translation": "زن باشد." },
+    { "text": "Mitglied einer Partei ist.", "translation": "عضو یک حزب باشد." }
+  ],
+  "correct": "gut ausgebildet ist.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "251" } }
+{
+  "question": "Wenn man in Deutschland ein Kind schlägt, …",
+  "question_translation": "اگر کسی در آلمان کودکی را بزند، …",
+  "options": [
+    { "text": "geht das niemanden etwas an.", "translation": "به کسی مربوط نمی‌شود." },
+    { "text": "geht das nur die Familie etwas an.", "translation": "فقط خانواده مربوط است." },
+    { "text": "kann man dafür nicht bestraft werden.", "translation": "قابل مجازات نیست." },
+    { "text": "kann man dafür bestraft werden.", "translation": "می‌توان برای آن مجازات شد." }
+  ],
+  "correct": "kann man dafür bestraft werden.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "252" } }
+{
+  "question": "In Deutschland …",
+  "question_translation": "در آلمان …",
+  "options": [
+    { "text": "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.", "translation": "فرد تنها می‌تواند همزمان با یک همسر ازدواج کند." },
+    { "text": "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.", "translation": "می‌توان چند همسر به طور همزمان داشت." },
+    { "text": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.", "translation": "اگر یک بار ازدواج کرده باشید نمی‌توانید دوباره ازدواج کنید." },
+    { "text": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.", "translation": "زن نمی‌تواند دوباره ازدواج کند اگر همسرش فوت کرده باشد." }
+  ],
+  "correct": "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "253" } }
+{
+  "question": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+  "question_translation": "وقتی در آلمان جابجا می‌شوید، کجا باید ثبت‌نام کنید؟",
+  "options": [
+    { "text": "beim Einwohnermeldeamt", "translation": "در اداره ثبت احوال" },
+    { "text": "beim Standesamt", "translation": "در دفتر ثبت احوال" },
+    { "text": "beim Ordnungsamt", "translation": "در دفتر نظم و قانون" },
+    { "text": "beim Gewerbeamt", "translation": "در اداره تجارت" }
+  ],
+  "correct": "beim Einwohnermeldeamt",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "254" } }
+{
+  "question": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?",
+  "question_translation": "در آلمان زوجین می‌توانند از هم طلاق بگیرند. معمولاً باید «سال جدایی» را رعایت کنند. این به چه معناست؟",
+  "options": [
+    { "text": "Der Scheidungsprozess dauert ein Jahr.", "translation": "روند طلاق یک سال طول می‌کشد." },
+    { "text": "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.", "translation": "زوجین باید یک سال ازدواج کرده باشند، سپس طلاق ممکن است." },
+    { "text": "Das Besuchsrecht für die Kinder gilt ein Jahr.", "translation": "حق ملاقات فرزندان برای مدت یک سال معتبر است." },
+    { "text": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.", "translation": "زوجین حداقل یک سال زندگی جداگانه‌ای دارند. سپس طلاق ممکن است." }
+  ],
+  "correct": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "255" } }
+{
+  "question": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+  "question_translation": "در صورت مشکلات تربیتی، والدین در آلمان از چه نهادی می‌توانند کمک دریافت کنند؟",
+  "options": [
+    { "text": "Ordnungsamt.", "translation": "اداره نظم و قانون" },
+    { "text": "Schulamt.", "translation": "اداره آموزش" },
+    { "text": "Jugendamt.", "translation": "اداره جوانان" },
+    { "text": "Gesundheitsamt.", "translation": "اداره بهداشت" }
+  ],
+  "correct": "Jugendamt.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "256" } }
+{
+  "question": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+  "question_translation": "یک زوج می‌خواهند در آلمان رستورانی افتتاح کنند. برای این کار چه چیزی حتماً لازم است؟",
+  "options": [
+    { "text": "eine Erlaubnis der Polizei", "translation": "مجوز پلیس" },
+    { "text": "eine Genehmigung einer Partei", "translation": "اجازه‌نامه از یک حزب" },
+    { "text": "eine Genehmigung des Einwohnermeldeamts", "translation": "مجوز از اداره ثبت احوال" },
+    { "text": "eine Gaststättenerlaubnis von der zuständigen Behörde", "translation": "مجوز رستوران از مقام مسئول" }
+  ],
+  "correct": "eine Gaststättenerlaubnis von der zuständigen Behörde",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "257" } }
+{
+  "question": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+  "question_translation": "یک زن بزرگسال می‌خواهد در آلمان دیپلم دبیرستان (Abitur) را بگیرد. او می‌تواند این کار را در … انجام دهد.",
+  "options": [
+    { "text": "einer Hochschule.", "translation": "یک دانشگاه" },
+    { "text": "einem Abendgymnasium.", "translation": "یک دبیرستان شبانه" },
+    { "text": "einer Hauptschule.", "translation": "یک دبیرستان پایه" },
+    { "text": "einer Privatuniversität.", "translation": "یک دانشگاه خصوصی" }
+  ],
+  "correct": "einem Abendgymnasium.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "258" } }
+{
+  "question": "Was darf das Jugendamt in Deutschland?",
+  "question_translation": "اداره جوانان (Jugendamt) در آلمان چه کاری می‌تواند انجام دهد؟",
+  "options": [
+    { "text": "Es entscheidet, welche Schule das Kind besucht.", "translation": "تصمیم می‌گیرد کودک به کدام مدرسه برود." },
+    { "text": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.", "translation": "می‌تواند کودکی که کتک می‌خورد یا گرسنه می‌ماند را از خانواده جدا کند." },
+    { "text": "Es bezahlt das Kindergeld an die Eltern.", "translation": "کمک هزینه فرزند را به والدین پرداخت می‌کند." },
+    { "text": "Es kontrolliert, ob das Kind einen Kindergarten besucht.", "translation": "کنترل می‌کند که آیا کودک به مهدکودک می‌رود یا خیر." }
+  ],
+  "correct": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "259" } }
+{
+  "question": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+  "question_translation": "مرکز اطلاعات شغلی (BIZ) در اداره فدرال کار آلمان در چه زمینه‌ای کمک می‌کند؟",
+  "options": [
+    { "text": "Rentenberechnung.", "translation": "محاسبه بازنشستگی" },
+    { "text": "Lehrstellensuche.", "translation": "یافتن محل کارآموزی / کار" },
+    { "text": "Steuererklärung.", "translation": "اظهارنامه مالیاتی" },
+    { "text": "Krankenversicherung.", "translation": "بیمه درمانی" }
+  ],
+  "correct": "Lehrstellensuche.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "266" } }
+{
+  "question": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+  "question_translation": "ساعت استراحت قانونی در آلمان از چه زمانی آغاز می‌شود؟",
+  "options": [
+    { "text": "wenn die Sonne untergeht", "translation": "وقتی خورشید غروب می‌کند" },
+    { "text": "wenn die Nachbarn schlafen gehen", "translation": "وقتی همسایه‌ها به خواب می‌روند" },
+    { "text": "um 0 Uhr, Mitternacht", "translation": "ساعت ۱۲ شب (نیمه‌شب)" },
+    { "text": "um 22 Uhr", "translation": "ساعت ۱۰ شب" }
+  ],
+  "correct": "um 22 Uhr",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "267" } }
+{
+  "question": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+  "question_translation": "زن جوانی در آلمان، ۲۲ ساله، با دوست‌پسرش زندگی می‌کند. والدین او این را نمی‌پسندند، چون دوست‌پسرش را قبول ندارند. والدین چه کاری می‌توانند انجام دهند؟",
+  "options": [
+    { "text": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.", "translation": "باید تصمیم دختر بالغ خود را بپذیرند." },
+    { "text": "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.", "translation": "حق دارند دختر را به خانه پدری برگردانند." },
+    { "text": "Sie können zur Polizei gehen und die Tochter anzeigen.", "translation": "می‌توانند به پلیس بروند و دختر را گزارش دهند." },
+    { "text": "Sie suchen einen anderen Mann für die Tochter.", "translation": "می‌توانند مرد دیگری برای دختر پیدا کنند." }
+  ],
+  "correct": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "268" } }
+{
+  "question": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+  "question_translation": "زن جوانی می‌خواهد گواهینامه رانندگی بگیرد. او از امتحان می‌ترسد، چون زبان مادری‌اش آلمانی نیست. چه چیزی درست است؟",
+  "options": [
+    { "text": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.", "translation": "او باید حداقل ده سال در آلمان زندگی کند تا بتواند گواهینامه بگیرد." },
+    { "text": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.", "translation": "اگر آلمانی بلد نباشد، نمی‌تواند گواهینامه داشته باشد." },
+    { "text": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.", "translation": "او باید گواهینامه را در کشوری بگیرد که زبانش را صحبت می‌کنند." },
+    { "text": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.", "translation": "او می‌تواند آزمون تئوری را شاید به زبان مادری‌اش انجام دهد. بیش از ده زبان برای انتخاب وجود دارد." }
+  ],
+  "correct": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "269" } }
+{
+  "question": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+  "question_translation": "در آلمان کودکان از سه سالگی تا شروع مدرسه ابتدایی حق چه چیزی را دارند؟",
+  "options": [
+    { "text": "monatliches Taschengeld.", "translation": "پول توجیبی ماهانه" },
+    { "text": "einen Platz in einem Sportverein.", "translation": "جایی در یک باشگاه ورزشی" },
+    { "text": "einen Kindergartenplatz.", "translation": "جایگاه در مهدکودک" },
+    { "text": "einen Ferienpass.", "translation": "کارت تعطیلات" }
+  ],
+  "correct": "einen Kindergartenplatz.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "270" } }
+{
+  "question": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+  "question_translation": "مدرسه عالی مردمی (Volkshochschule) در آلمان چه نوع مؤسسه‌ای است؟",
+  "options": [
+    { "text": "für den Religionsunterricht.", "translation": "برای آموزش مذهبی" },
+    { "text": "nur für Jugendliche.", "translation": "فقط برای نوجوانان" },
+    { "text": "zur Weiterbildung.", "translation": "برای آموزش‌های تکمیلی" },
+    { "text": "nur für Rentnerinnen und Rentner.", "translation": "فقط برای بازنشستگان" }
+  ],
+  "correct": "zur Weiterbildung.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "271" } }
+{
+  "question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+  "question_translation": "در آلمان کدام یک رسم کریسمس است؟",
+  "options": [
+    { "text": "bunte Eier verstecken", "translation": "تخم‌مرغ‌های رنگی پنهان کردن" },
+    { "text": "einen Tannenbaum schmücken", "translation": "درخت کاج را تزئین کردن" },
+    { "text": "sich mit Masken und Kostümen verkleiden", "translation": "با ماسک و لباس مبدل جشن گرفتن" },
+    { "text": "Kürbisse vor die Tür stellen", "translation": "کدو تنبل جلوی در گذاشتن" }
+  ],
+  "correct": "einen Tannenbaum schmücken",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "272" } }
+{
+  "question": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+  "question_translation": "کدام نوع زندگی در آلمان مجاز نیست؟",
+  "options": [
+    { "text": "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.", "translation": "زن و مردی طلاق گرفته‌اند و با شریک‌های جدید زندگی می‌کنند." },
+    { "text": "Zwei Frauen leben zusammen.", "translation": "دو زن با هم زندگی می‌کنند." },
+    { "text": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.", "translation": "یک پدر تنها با دو فرزندش زندگی می‌کند." },
+    { "text": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.", "translation": "یک مرد همزمان با دو زن ازدواج کرده است." }
+  ],
+  "correct": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "273" } }
+{
+  "question": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+  "question_translation": "در صورت بروز مشکلات تربیتی در آلمان باید به کجا مراجعه کرد؟",
+  "options": [
+    { "text": "zur Ärztin/zum Arzt.", "translation": "پیش پزشک" },
+    { "text": "zum Gesundheitsamt.", "translation": "به اداره بهداشت" },
+    { "text": "zum Einwohnermeldeamt.", "translation": "به اداره ثبت محل اقامت" },
+    { "text": "zum Jugendamt.", "translation": "به اداره جوانان (اداره حمایت از کودکان و نوجوانان)" }
+  ],
+  "correct": "zum Jugendamt.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "274" } }
+{
+  "question": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+  "question_translation": "شما در آلمان عمداً نامه‌ای را باز کرده‌اید که به شخص دیگری خطاب شده بود. کدام اصل را رعایت نکرده‌اید؟",
+  "options": [
+    { "text": "das Schweigerecht", "translation": "حق سکوت" },
+    { "text": "das Briefgeheimnis", "translation": "اصل محرمانگی نامه‌ها" },
+    { "text": "die Schweigepflicht", "translation": "تعهد به رازداری" },
+    { "text": "die Meinungsfreiheit", "translation": "آزادی بیان" }
+  ],
+  "correct": "das Briefgeheimnis",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "275" } }
+{
+  "question": "Was braucht man in Deutschland für eine Ehescheidung?",
+  "question_translation": "برای طلاق در آلمان چه چیزی لازم است؟",
+  "options": [
+    { "text": "die Einwilligung der Eltern", "translation": "رضایت والدین" },
+    { "text": "ein Attest einer Ärztin/eines Arztes", "translation": "گواهی پزشک" },
+    { "text": "die Einwilligung der Kinder", "translation": "رضایت فرزندان" },
+    { "text": "die Unterstützung einer Anwältin/eines Anwalts", "translation": "کمک وکیل" }
+  ],
+  "correct": "die Unterstützung einer Anwältin/eines Anwalts",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "276" } }
+{
+  "question": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+  "question_translation": "اگر کارمند یک اداره آلمانی با شما بدرفتاری کند، چه باید بکنید؟",
+  "options": [
+    { "text": "Ich kann nichts tun.", "translation": "من نمی‌توانم کاری بکنم." },
+    { "text": "Ich muss mir diese Behandlung gefallen lassen.", "translation": "باید این رفتار را تحمل کنم." },
+    { "text": "Ich drohe der Person.", "translation": "به آن شخص تهدید می‌کنم." },
+    { "text": "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.", "translation": "می‌توانم نزد رئیس اداره شکایت کنم." }
+  ],
+  "correct": "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "277" } }
+{
+  "question": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …",
+  "question_translation": "زنی که یک کودک دوساله دارد، در آلمان برای شغلی درخواست می‌دهد. کدام گزینه نمونه‌ای از تبعیض است؟ او فقط به این دلیل شغل را نمی‌گیرد که …",
+  "options": [
+    { "text": "kein Englisch spricht.", "translation": "انگلیسی بلد نیست." },
+    { "text": "zu hohe Gehaltsvorstellungen hat.", "translation": "انتظارات حقوقی او خیلی بالاست." },
+    { "text": "keine Erfahrungen in diesem Beruf hat.", "translation": "تجربه‌ای در این شغل ندارد." },
+    { "text": "Mutter ist.", "translation": "مادر است." }
+  ],
+  "correct": "Mutter ist.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "284" } }
+{
+  "question": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+  "question_translation": "آنچه برای کار باید بلد بود، در آینده بسیار سریع تغییر می‌کند. چه باید کرد؟",
+  "options": [
+    { "text": "Es ist egal, was man lernt.", "translation": "مهم نیست چه چیزی یاد بگیری." },
+    { "text": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.", "translation": "بزرگسالان باید حتی پس از آموزش رسمی هم همیشه به یادگیری ادامه دهند." },
+    { "text": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.", "translation": "کودکان در مدرسه همه چیزهایی را که برای شغل مهم است یاد می‌گیرند. بعد از مدرسه نیازی به یادگیری نیست." },
+    { "text": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.", "translation": "همه باید زودتر کار را رها کنند چون همه‌چیز تغییر می‌کند." }
+  ],
+  "correct": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "285" } }
+{
+  "question": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+  "question_translation": "خانم فروست به‌عنوان کارمند رسمی در یک دفتر کار می‌کند. چه چیزی را نباید از حقوقش پرداخت کند؟",
+  "options": [
+    { "text": "Lohnsteuer", "translation": "مالیات بر درآمد (مالیات حقوق)" },
+    { "text": "Beiträge zur Arbeitslosenversicherung", "translation": "سهم بیمه بیکاری" },
+    { "text": "Beiträge zur Renten- und Krankenversicherung", "translation": "سهم بیمه بازنشستگی و درمان" },
+    { "text": "Umsatzsteuer", "translation": "مالیات بر ارزش افزوده (مالیات فروش)" }
+  ],
+  "correct": "Umsatzsteuer",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "286" } }
+{
+  "question": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+  "question_translation": "کدام نهاد در یک شرکت به کارکنان در مشکلاتشان با کارفرما کمک می‌کند؟",
+  "options": [
+    { "text": "der Betriebsrat", "translation": "شورای کارگری (Betriebsrat)" },
+    { "text": "die Betriebsprüferin/der Betriebsprüfer", "translation": "بازرس شرکت" },
+    { "text": "die Betriebsgruppe", "translation": "گروه شرکت" },
+    { "text": "das Betriebsmanagement", "translation": "مدیریت شرکت" }
+  ],
+  "correct": "der Betriebsrat",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "287" } }
+{
+  "question": "Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+  "question_translation": "اگر بخواهید در آلمان رابطه کاری خود را با یک شرکت خاتمه دهید، باید به چه چیزی توجه کنید؟",
+  "options": [
+    { "text": "die Gehaltszahlungen", "translation": "پرداخت حقوق" },
+    { "text": "die Arbeitszeit", "translation": "ساعت کاری" },
+    { "text": "die Kündigungsfrist", "translation": "مهلت استعفا/اخراج" },
+    { "text": "die Versicherungspflicht", "translation": "الزام بیمه" }
+  ],
+  "correct": "die Kündigungsfrist",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "288" } }
+{
+  "question": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+  "question_translation": "مسئولیت ویژه آلمان در قبال اسرائیل از کجا ناشی می‌شود؟",
+  "options": [
+    { "text": "aus der Mitgliedschaft in der Europäischen Union (EU)", "translation": "از عضویت در اتحادیه اروپا" },
+    { "text": "aus den nationalsozialistischen Verbrechen gegen Juden", "translation": "از جنایات ناسیونال‌سوسیالیست‌ها علیه یهودیان" },
+    { "text": "aus dem Grundgesetz der Bundesrepublik Deutschland", "translation": "از قانون اساسی آلمان" },
+    { "text": "aus der christlichen Tradition", "translation": "از سنت مسیحی" }
+  ],
+  "correct": "aus den nationalsozialistischen Verbrechen gegen Juden",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "289" } }
+{
+  "question": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …",
+  "question_translation": "مردی با پوست تیره برای شغل پیشخدمت در یک رستوران در آلمان درخواست داده است. کدام گزینه نمونه تبعیض است؟ او فقط به این دلیل شغل را نمی‌گیرد که …",
+  "options": [
+    { "text": "seine Deutschkenntnisse zu gering sind.", "translation": "دانش زبان آلمانی او ضعیف است." },
+    { "text": "er zu hohe Gehaltsvorstellungen hat.", "translation": "انتظارات حقوقی او زیاد است." },
+    { "text": "er eine dunkle Haut hat.", "translation": "پوست تیره دارد." },
+    { "text": "er keine Erfahrungen im Beruf hat.", "translation": "تجربه کاری ندارد." }
+  ],
+  "correct": "er eine dunkle Haut hat.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "290" } }
+{
+  "question": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+  "question_translation": "شما در آلمان یک تلویزیون خریده‌اید. در خانه آن را باز می‌کنید اما کار نمی‌کند. تلویزیون خراب است. چه می‌توانید بکنید؟",
+  "options": [
+    { "text": "eine Anzeige schreiben", "translation": "اعلان (آگهی/شکایت رسمی) بنویسید" },
+    { "text": "den Fernseher reklamieren", "translation": "تلویزیون را مرجوع کنید (شکایت/اعتراض کنید)" },
+    { "text": "das Gerät ungefragt austauschen", "translation": "وسیله را بدون اطلاع تعویض کنید" },
+    { "text": "die Garantie verlängern", "translation": "گارانتی را تمدید کنید" }
+  ],
+  "correct": "den Fernseher reklamieren",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "291" } }
+{
+  "question": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …",
+  "question_translation": "چرا در آلمان باید در اظهارنامه مالیاتی نوشت که آیا به کلیسا تعلق دارید یا نه؟ چون …",
+  "options": [
+    { "text": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.", "translation": "یک مالیات کلیسا وجود دارد که به مالیات بر درآمد و حقوق وابسته است." },
+    { "text": "das für die Statistik in Deutschland wichtig ist.", "translation": "این برای آمار در آلمان مهم است." },
+    { "text": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.", "translation": "باید مالیات بیشتری پرداخت اگر عضو کلیسا نباشید." },
+    { "text": "die Kirche für die Steuererklärung verantwortlich ist.", "translation": "کلیسا مسئول اظهارنامه مالیاتی است." }
+  ],
+  "correct": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "292" } }
+{
+  "question": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+  "question_translation": "مردم در آلمان بر اساس اصل مدارا و تحمل دینی زندگی می‌کنند. این یعنی چه؟",
+  "options": [
+    { "text": "Es dürfen keine Moscheen gebaut werden.", "translation": "هیچ مسجدی نباید ساخته شود." },
+    { "text": "Alle Menschen glauben an Gott.", "translation": "همه مردم به خدا اعتقاد دارند." },
+    { "text": "Jeder kann glauben, was er möchte.", "translation": "هر کسی می‌تواند به آنچه می‌خواهد ایمان داشته باشد." },
+    { "text": "Der Staat entscheidet, an welchen Gott die Menschen glauben.", "translation": "دولت تصمیم می‌گیرد که مردم به کدام خدا ایمان داشته باشند." }
+  ],
+  "correct": "Jeder kann glauben, was er möchte.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "293" } }
+{
+  "question": "Was ist in Deutschland ein Brauch zu Ostern?",
+  "question_translation": "چه چیزی در آلمان یک رسم در عید پاک (Ostern) است؟",
+  "options": [
+    { "text": "Kürbisse vor die Tür stellen", "translation": "گذاشتن کدو جلوی در" },
+    { "text": "einen Tannenbaum schmücken", "translation": "تزیین درخت کاج" },
+    { "text": "Eier bemalen", "translation": "رنگ‌آمیزی تخم‌مرغ‌ها" },
+    { "text": "Raketen in die Luft schießen", "translation": "شلیک موشک/آتش‌بازی در هوا" }
+  ],
+  "correct": "Eier bemalen",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "294" } }
+{
+  "question": "Pfingsten ist ein …",
+  "question_translation": "عید پفینگستن چیست؟",
+  "options": [
+    { "text": "christlicher Feiertag.", "translation": "یک تعطیل مسیحی است." },
+    { "text": "deutscher Gedenktag.", "translation": "یک روز یادبود آلمانی است." },
+    { "text": "internationaler Trauertag.", "translation": "یک روز عزای بین‌المللی است." },
+    { "text": "bayerischer Brauch.", "translation": "یک رسم بایرنی است." }
+  ],
+  "correct": "christlicher Feiertag.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "295" } }
+{
+  "question": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+  "question_translation": "کدام دین بر فرهنگ اروپایی و آلمانی تأثیرگذار بوده است؟",
+  "options": [
+    { "text": "der Hinduismus", "translation": "هندوئیسم" },
+    { "text": "das Christentum", "translation": "مسیحیت" },
+    { "text": "der Buddhismus", "translation": "بودائیسم" },
+    { "text": "der Islam", "translation": "اسلام" }
+  ],
+  "correct": "das Christentum",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "296" } }
+{
+  "question": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+  "question_translation": "در آلمان به چهار هفته آخر قبل از کریسمس چه می‌گویند؟",
+  "options": [
+    { "text": "den Buß- und Bettag.", "translation": "روز دعا و توبه" },
+    { "text": "das Erntedankfest.", "translation": "جشن شکرگزاری" },
+    { "text": "die Adventszeit.", "translation": "زمان آدونت (چهار هفته آمادگی برای کریسمس)" },
+    { "text": "Allerheiligen.", "translation": "عید همه مقدسین" }
+  ],
+  "correct": "die Adventszeit.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "297" } }
+{
+  "question": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+  "question_translation": "بیشتر مهاجران به آلمان از کدام کشور آمده‌اند؟",
+  "options": [
+    { "text": "Italien", "translation": "ایتالیا" },
+    { "text": "Polen", "translation": "لهستان" },
+    { "text": "Marokko", "translation": "مراکش" },
+    { "text": "Türkei", "translation": "ترکیه" }
+  ],
+  "correct": "Türkei",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "298" } }
+{
+  "question": "In der DDR lebten vor allem Migrantinnen und Migranten aus …",
+  "question_translation": "در آلمان شرقی (DDR) عمدتاً مهاجرانی از کجا زندگی می‌کردند؟",
+  "options": [
+    { "text": "Vietnam, Polen, Mosambik.", "translation": "ویتنام، لهستان، موزامبیک" },
+    { "text": "Frankreich, Rumänien, Somalia.", "translation": "فرانسه، رومانی، سومالی" },
+    { "text": "Chile, Ungarn, Simbabwe.", "translation": "شیلی، مجارستان، زیمبابوه" },
+    { "text": "Nordkorea, Mexiko, Ägypten.", "translation": "کره شمالی، مکزیک، مصر" }
+  ],
+  "correct": "Vietnam, Polen, Mosambik.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "299" } }
+{
+  "question": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
+  "question_translation": "کارگران خارجی که در دهه‌های ۵۰ و ۶۰ توسط آلمان غربی جذب شدند چه نامیده می‌شدند؟",
+  "options": [
+    { "text": "Schwarzarbeiterinnen/Schwarzarbeiter.", "translation": "کارگران غیرقانونی" },
+    { "text": "Gastarbeiterinnen/Gastarbeiter.", "translation": "کارگران مهمان" },
+    { "text": "Zeitarbeiterinnen/Zeitarbeiter.", "translation": "کارگران موقت" },
+    { "text": "Schichtarbeiterinnen/Schichtarbeiter.", "translation": "کارگران شیفتی" }
+  ],
+  "correct": "Gastarbeiterinnen/Gastarbeiter.",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "300" } }
+{
+  "question": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+  "question_translation": "اولین کارگران مهمان در آلمان غربی از کدام کشور آمدند؟",
+  "options": [
+    { "text": "Italien", "translation": "ایتالیا" },
+    { "text": "Spanien", "translation": "اسپانیا" },
+    { "text": "Portugal", "translation": "پرتغال" },
+    { "text": "Türkei", "translation": "ترکیه" }
+  ],
+  "correct": "Italien",
+  "state": "Deutschland"
+}
+{ "index": { "_id": "301" } }
+{
+  "question": "Welches Wappen gehört zum Bundesland Baden-Württemberg?",
+  "question_translation": "کدام نشان متعلق به ایالت بادن-وورتمبرگ است؟",
+  "options": [
+    { "text": "Bild 1", "translation": "تصویر ۱" },
+    { "text": "Bild 2", "translation": "تصویر ۲" },
+    { "text": "Bild 3", "translation": "تصویر ۳" },
+    { "text": "Bild 4", "translation": "تصویر ۴" }
+  ],
+  "correct": "Bild 1",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "302" } }
+{
+  "question": "Welches ist ein Landkreis in Baden-Württemberg?",
+  "question_translation": "کدام یک از اینها یک شهرستان در بادن-وورتمبرگ است؟",
+  "options": [
+    { "text": "Mecklenburgische Seenplatte", "translation": "مکلنبورگیش زین‌پلاته" },
+    { "text": "Neckar-Odenwald-Kreis", "translation": "شهرستان نکار-اودن‌والد" },
+    { "text": "Nordfriesland", "translation": "نوردفریزلند" },
+    { "text": "Altötting", "translation": "آلت‌اوتینگ" }
+  ],
+  "correct": "Neckar-Odenwald-Kreis",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "303" } }
+{
+  "question": "Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?",
+  "question_translation": "پارلمان ایالتی بادن-وورتمبرگ برای چند سال انتخاب می‌شود؟",
+  "options": [
+    { "text": "3", "translation": "۳" },
+    { "text": "4", "translation": "۴" },
+    { "text": "5", "translation": "۵" },
+    { "text": "6", "translation": "۶" }
+  ],
+  "correct": "5",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "304" } }
+{
+  "question": "Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?",
+  "question_translation": "از چه سنی در بادن-وورتمبرگ می‌توان در انتخابات محلی رأی داد؟",
+  "options": [
+    { "text": "14", "translation": "۱۴" },
+    { "text": "16", "translation": "۱۶" },
+    { "text": "18", "translation": "۱۸" },
+    { "text": "20", "translation": "۲۰" }
+  ],
+  "correct": "16",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "305" } }
+{
+  "question": "Welche Farben hat die Landesflagge von Baden-Württemberg?",
+  "question_translation": "پرچم ایالت بادن-وورتمبرگ چه رنگ‌هایی دارد؟",
+  "options": [
+    { "text": "blau-weiß-rot", "translation": "آبی-سفید-قرمز" },
+    { "text": "schwarz-gold", "translation": "سیاه-طلایی" },
+    { "text": "weiß-blau", "translation": "سفید-آبی" },
+    { "text": "grün-weiß-rot", "translation": "سبز-سفید-قرمز" }
+  ],
+  "correct": "schwarz-gold",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "306" } }
+{
+  "question": "Wo können Sie sich in Baden-Württemberg über politische Themen informieren?",
+  "question_translation": "در بادن-وورتمبرگ کجا می‌توانید درباره موضوعات سیاسی اطلاعات کسب کنید؟",
+  "options": [
+    { "text": "beim Ordnungsamt der Gemeinde", "translation": "در اداره نظم عمومی شهرداری" },
+    { "text": "bei der Verbraucherzentrale", "translation": "در مرکز حمایت از مصرف‌کنندگان" },
+    { "text": "bei der Landeszentrale für politische Bildung", "translation": "در مرکز ایالتی آموزش سیاسی" },
+    { "text": "bei den Kirchen", "translation": "در کلیساها" }
+  ],
+  "correct": "bei der Landeszentrale für politische Bildung",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "307" } }
+{
+  "question": "Die Landeshauptstadt von Baden-Württemberg heißt …",
+  "question_translation": "پایتخت ایالت بادن-وورتمبرگ چه نام دارد؟",
+  "options": [
+    { "text": "Heidelberg.", "translation": "هایدلبرگ" },
+    { "text": "Stuttgart.", "translation": "اشتوتگارت" },
+    { "text": "Karlsruhe.", "translation": "کارلسروهه" },
+    { "text": "Mannheim.", "translation": "مانهایم" }
+  ],
+  "correct": "Stuttgart.",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "308" } }
+{
+  "question": "Welches Bundesland ist Baden-Württemberg?",
+  "question_translation": "کدام شماره روی نقشه مربوط به ایالت بادن-وورتمبرگ است؟",
+  "options": [
+    { "text": "1", "translation": "۱" },
+    { "text": "2", "translation": "۲" },
+    { "text": "3", "translation": "۳" },
+    { "text": "4", "translation": "۴" }
+  ],
+  "correct": "2",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "309" } }
+{
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Baden-Württemberg?",
+  "question_translation": "رئیس دولت در بادن-وورتمبرگ چه نامیده می‌شود؟",
+  "options": [
+    { "text": "Erste Ministerin/Erster Minister", "translation": "وزیر اول" },
+    { "text": "Premierministerin/Premierminister", "translation": "نخست‌وزیر" },
+    { "text": "Bürgermeisterin/Bürgermeister", "translation": "شهردار" },
+    { "text": "Ministerpräsidentin/Ministerpräsident", "translation": "وزیر-رئیس ایالت" }
+  ],
+  "correct": "Ministerpräsidentin/Ministerpräsident",
+  "state": "Baden-Württemberg"
+}
+{ "index": { "_id": "310" } }
+{
+  "question": "Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?",
+  "question_translation": "بادن-وورتمبرگ کدام وزیر را ندارد؟",
+  "options": [
+    { "text": "Finanzministerin/Finanzminister", "translation": "وزیر دارایی" },
+    { "text": "Justizministerin/Justizminister", "translation": "وزیر دادگستری" },
+    { "text": "Innenministerin/Innenminister", "translation": "وزیر کشور" },
+    { "text": "Außenministerin/Außenminister", "translation": "وزیر امور خارجه" }
+  ],
+  "correct": "Außenministerin/Außenminister",
+  "state": "Baden-Württemberg"
+}
 
