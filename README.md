@@ -1,11 +1,11 @@
 # Delete index
 
-`DELETE /fragen`
+`DELETE /questions`
 
 # Mapping index
 
 ```json
-PUT /fragen
+PUT /questions
 {
   "settings": {
     "index": {
@@ -49,9 +49,9 @@ PUT /fragen
 # Bulk insert
 
 Use
-`POST /fragen/_bulk` command and put `fragen_bulk.ndjson` file below of it and run it. Or use this command in terminal:
+`POST /questions/_bulk` command and put `questions_bulk.ndjson` file below of it and run it. Or use this command in terminal:
 
-`curl -X POST "http://localhost:9200/fragen/_bulk" -H "Content-Type: application/x-ndjson" --data-binary @fragen_bulk.ndjson`
+`curl -X POST "http://localhost:9200/questions/_bulk" -H "Content-Type: application/x-ndjson" --data-binary @questions_bulk.ndjson`
 
 and empty format for adding another question:
 
@@ -81,7 +81,7 @@ To search questions:
 Size is optional.
 
 ```json
-GET /fragen/_search
+GET /questions/_search
 {
   "query": { "match_all": {} },
   "size": 100
@@ -91,7 +91,7 @@ GET /fragen/_search
 ## Search in questions
 
 ```json
-GET /fragen/_search
+GET /questions/_search
 {
   "query": {
     "match": {
@@ -104,7 +104,7 @@ GET /fragen/_search
 ## Search in question and answers
 
 ```json
-GET /fragen/_search
+GET /questions/_search
 {
   "query": {
     "bool": {
@@ -133,7 +133,7 @@ GET /fragen/_search
 with should
 
 ```json
-GET /fragen/_search
+GET /questions/_search
 {
   "query": {
     "bool": {
@@ -162,7 +162,7 @@ GET /fragen/_search
 ## Search correct answer
 
 ```json
-GET /fragen/_search
+GET /questions/_search
 {
   "query": {
     "bool": {
