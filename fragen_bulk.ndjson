@@ -2914,7 +2914,7 @@
     { "text": "Bild 4", "translation": "تصویر ۴" }
   ],
   "correct": "Bild 2",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "227" } }
 {
@@ -2966,7 +2966,7 @@
     { "text": "8 Jahre.", "translation": "۸ سال" }
   ],
   "correct": "5 Jahre.",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "231" } }
 {
@@ -2979,7 +2979,7 @@
     { "text": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.", "translation": "این اصطلاح به اتحاد کشورهای اروپایی در اتحادیه اروپا اشاره دارد." }
   ],
   "correct": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "232" } }
 {
@@ -2992,7 +2992,7 @@
     { "text": "die europäische Verfassung", "translation": "قانون اساسی اروپایی" }
   ],
   "correct": "die Abgeordneten des Europäischen Parlaments",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "233" } }
 {
@@ -3018,7 +3018,7 @@
     { "text": "Straßburg", "translation": "استراسبورگ" }
   ],
   "correct": "Straßburg",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "235" } }
 {
@@ -3031,7 +3031,7 @@
     { "text": "einheitliche Feiertage in den Ländern der EU", "translation": "تعطیلات یکسان در کشورهای اتحادیه اروپا" }
   ],
   "correct": "Frieden und Sicherheit in den Ländern der EU",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "236" } }
 {
@@ -3044,7 +3044,7 @@
     { "text": "27", "translation": "۲۷" }
   ],
   "correct": "27",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "237" } }
 {
@@ -3057,7 +3057,7 @@
     { "text": "Festlegung der Oder-Neiße-Linie als Ostgrenze", "translation": "تعیین خط اودر-نایسه به عنوان مرز شرقی" }
   ],
   "correct": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "238" } }
 {
@@ -3070,7 +3070,7 @@
     { "text": "Bonn, Zürich und Mailand", "translation": "بن، زوریخ و میلان" }
   ],
   "correct": "Straßburg, Luxemburg und Brüssel",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "239" } }
 {
@@ -3083,7 +3083,7 @@
     { "text": "durch die „Londoner Verträge“", "translation": "از طریق معاهدات لندن" }
   ],
   "correct": "durch die „Römischen Verträge“",
-  "state": "Europa"
+  "state": "Deutschland"
 }
 { "index": { "_id": "240" } }
 {
