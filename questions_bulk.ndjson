@@ -1577,6 +1577,19 @@
   "correct": "frei, gleich, geheim",
   "state": "Deutschland"
 }
+{ "index": { "_id": "123" } }
+{
+  "question": "Was ist in Deutschland die „5%-Hürde“?",
+  "question_translation": "«مانع ۵٪» در آلمان چیست؟",
+  "options": [
+    { "text": "Abstimmungsregelung im Bundestag für kleine Parteien", "translation": "قوانین رأی‌گیری در بوندستاگ برای احزاب کوچک" },
+    { "text": "Anwesenheitskontrolle im Bundestag für Abstimmungen", "translation": "کنترل حضور و غیاب در بوندستاگ برای رأی‌گیری" },
+    { "text": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen", "translation": "حداقل آرای لازم برای ورود به مجلس" },
+    { "text": "Anwesenheitskontrolle im Bundesrat für Abstimmungen", "translation": "کنترل حضور و غیاب در شورای فدرال برای رأی‌گیری" }
+  ],
+  "correct": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+  "state": "Deutschland"
+}
 { "index": { "_id": "124" } }
 {
   "question": "Die Bundestagswahl in Deutschland ist die Wahl …",
